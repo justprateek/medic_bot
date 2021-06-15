@@ -9,36 +9,32 @@
 - Hi
 - Hii
 - Hiii
-- Hi how are  
-- Hiii how are  
+- Hi how are
+- Hiii how are
 - gud mrng
 - gud nite
-- good evening
-- good evening to  
+- good evening to
 - hey good evening
 - hello good evening
 - evening
 - good evening there
-- good morning
-- good morning to  
+- good morning to
 - hello good morning
 - nice morning
 - great morning
 - morning
 - good morning there
-- top of the morning to  
+- top of the morning to
 - a good morning
 - hi good morning
-- and a good morning to  
+- and a good morning to
 - good morning too
 - long time no see
-- hello
-- hi
 - howdy
 - hey there
 - hey
 - greetings
-- greet  
+- greet
 - hi there
 - hello there
 - lovely day isn't it
@@ -57,16 +53,16 @@
 - appoint
 - want an booking urgently
 - want an appointment urgently
--  please book an appointment for me
+- please book an appointment for me
 - want to book an appointment
 - Could   please book an appointment for me?
 - do want to book an appointment
--  want to book an appointment with a doctor
--  want an appoitment to be booked for today
+- want to book an appointment with a doctor
+- want an appoitment to be booked for today
 - want to book
-- do  to make an appointment 
+- do  to make an appointment
 - would require an appointment  would be glad if   would help me
--  want to book an appointment with a doctot
+- want to book an appointment with a doctot
 
 ## intent:get_speciality_0_3
 - [General Practitioner](speciality)
@@ -97,7 +93,6 @@
 - [exodontist](speciality)
 - [extern](speciality)
 - [forensic scientist](speciality)
-- [general practitioner](speciality)
 - [GP](speciality)
 - [gp](speciality)
 - [geriatrician](speciality)
@@ -136,7 +131,6 @@
 - [serologist](speciality)
 - [speech therapist](speciality)
 - [therapist](speciality)
-- [surgeon](speciality)
 - [syphilologist](speciality)
 - [toxicologist](speciality)
 - [trichologist](speciality)
@@ -145,20 +139,17 @@
 - [veterinary surgeon](speciality)
 - [radiologist](speciality)
 - [cardiologist](speciality)
-- [paediatrician](speciality)
-- [dermatologist](speciality)
 - Is a [radiologist](speciality) available?
 - want an appointment with a [radiologist](speciality)
 - want a [radiologist](speciality)
 - want a [cardiologist](speciality)
--  require a [cardiologist](speciality) for me 
+- require a [cardiologist](speciality) for me
 - want an appointment for a [cardiologist](speciality)
--  need an appointment with a [cardiologist](speciality)
+- need an appointment with a [cardiologist](speciality)
 - A [cardiologist](speciality)
 - want to book a [radiologist](speciality)
 
 ## intent:get_doctor_name_0_4
-- Dr 
 - Dr
 - Doctor
 - Dr  [Gupta](doctor_name)
@@ -171,7 +162,6 @@
 - Doctor [Ray](doctor_name)
 - want to choose Doctor [Ray](doctor_name)
 - want an appointment with Doctor [Gupta](doctor_name)
-- Dr [Ray](doctor_name)
 - [Ray](doctor_name)
 - [ray](doctor_name)
 - [gupta](doctor_name)
@@ -180,7 +170,6 @@
 - would select Dr [Gupta](doctor_name)
 - would choose Dr[Gupta](doctor_name)
 - want Dr [Gupta](doctor_name)
-- Dr [Gupta](doctor_name)
 - Dr [Khan](doctor_name)
 - Dr [Dalal](doctor_name)
 - Dr [Banerjee](doctor_name)
@@ -209,7 +198,6 @@
 - Dr. [Bajaj](doctor_name)
 - Dr. [Nair](doctor_name)
 - Dr. [Sen](doctor_name)
-- Dr. [Bora](doctor_name)
 
 ## intent:get_date_and_month_0_5
 - [24](date) [jan](month)
@@ -249,7 +237,6 @@
 - [24th](date) of [February](month) should be fine
 - [24th](date) of [january](month)
 - book for [24](date) of [january](month)
-- [24](date) of [jan](month)
 
 ## intent:get_time_0_6
 - [10:00](time)
@@ -275,7 +262,6 @@
 - [18:30](time)
 - [03:30](time)
 - [2:30](time)
-- [11:00](time)
 - [1000](time)
 - [1200](time)
 - [1300](time)
@@ -291,13 +277,10 @@
 - No Thanks again
 - nooo
 - thanks
-- no
 - how about no
 - don t  sense
-- no
 - don't
 - don't want that
-- disagree
 - disagree
 - don't want
 - not interested
@@ -307,7 +290,7 @@
 - no don't
 - I'm not
 - na
-- no that's fine thank  
+- no that's fine thank
 - never
 - said no
 - of course not
@@ -322,7 +305,6 @@
 - no it's not
 - absolutely not
 - not that
-- nooo
 - nope
 - don't want to
 - no would not
@@ -336,7 +318,6 @@
 - definitely not
 - not at this time
 - not exactly
-- no don't
 - not really no
 - no thank   not right now
 - actually no
@@ -353,7 +334,7 @@
 - apparently not
 - no do not
 - no just no
-- no but thank  
+- no but thank
 - no need thanks
 - no thank   though
 - no thank   very much
@@ -364,7 +345,6 @@
 - bye for now
 - till next time
 - I must go
-- bye
 - goodbye
 - see you
 - see you soon
@@ -396,7 +376,6 @@
 - appreciate your help
 - cheers
 - thank you
-- thanks
 - thanks a lot
 - terrific thank you
 - great thank you
@@ -434,13 +413,11 @@
 - I need your help
 - help
 - need to ask question
--  a question
-- want to consult with   please help me urgently
--   question
-- question
-- want to ask  
-- ask
 - a question
+- want to consult with   please help me urgently
+- question
+- want to ask
+- ask
 - or want Quick Assistance
 - I want you to answer me
 - answer
@@ -452,7 +429,6 @@
 - tell me the answer
 - answer it
 - give me the answer
-- a question
 - I want you to answer my question
 - just answer the question
 - can you answer me
@@ -482,7 +458,7 @@
 - asdkfjasld
 - asdlkfja
 - asjdfl asdlfkj alksjdf asjdfl
-- iweuro 
+- iweuro
 - lajkjsdfl
 - aksjdf
 - a fd d f sd f sd s sd d d dw
@@ -499,8 +475,7 @@
 - jjjjjjj
 - asdkjasdjalsd.
 
-
-## intent: small_duration_0_12
+## intent:small_duration_0_12
 - Less than 2 days
 - Less than 3 days
 - 2 days
@@ -522,17 +497,15 @@
 - less than a day
 - less than 2 days
 - less than 3 days
-- 3 days
+- /small_duration_0_12
 
-
-
-## intent: long_duration_0_13
+## intent:long_duration_0_13
 - 3 days or more
 - more than 3 days
 - 4 days
 - 5 days
 - 6 days
-- 1 week 
+- 1 week
 - half week
 - four days
 - one month
@@ -541,13 +514,10 @@
 - month
 - months
 - years
-- days 
+- days
 - several days
 - several months
 - several weeks
-
-
-
 
 ## intent:problem_headache_1_4
 - hdache
@@ -559,8 +529,6 @@
 - hdce
 - headace
 - i have headach
-- hdache
-- hadache
 - headache
 - headach
 - a headache
@@ -569,7 +537,7 @@
 - also  headache
 - a head ache
 - my head is paining
--  my head is aching
+- my head is aching
 - my head is paining a lot
 - head pain
 - pain in my head
@@ -582,40 +550,25 @@
 - a headach
 - i have ead pain
 - i hae headache
-- also  headache
-- a headache
 - m headspaining
--  my head is aching
-- my head is paining a lot
 - head pai
-- pain in my head
 - i have pin in my head
 - A painful sensation in anypart of the head ranging from sharp to dull
 - as if thesa hav a tght band around the head
 - a onstant, dull ache n both sies
-- pain spread to or from the neck
-- restlessness
-
-
-
-
-
-
-
 
 ## intent:problem_headache_1_4_1
 - oneheadache
 - onehdache
 - one
 - 1
-
+- /problem_headache_1_4_1
 
 ## intent:problem_headache_1_4_2
 - twoheadache
 - twohdache
 - two
 - 2
-
 
 ## intent:problem_cough_or_cold_1_5
 - rnning nse
@@ -633,20 +586,15 @@
 - my nose is red
 - i have sore nose
 - i have dripping nose
-- i have sore throat
 - sore throat
 - sore
-
+- i am sick
 
 ## intent:problem_fever_1_8
 - fvr
 - fevr
-- fvr
-- fevr
-- i have fever
 - i have fever
 - fever
-- i have fever
 - i have fevre problem
 - i have fevere problem
 - i have fever problem
@@ -655,12 +603,9 @@
 - nasal blockage
 - i have nasal blockage
 
-
 ## intent:problem_not_nasal_1_5_2
 - i do not have nasal blockage
 - i dont have nasal blockage
-
-
 
 ## intent:problem_fungal_1_6
 - i have fungal infection
@@ -672,7 +617,6 @@
 - skin
 - i have rough skin
 
-
 ## intent:problem_diarrhea_1_7_1
 - havediarrhea
 - havediarrhoea
@@ -681,12 +625,11 @@
 - not havediarrhea
 - not havediarrhoea
 
-## intent: problem_headache_1_9_1
+## intent:problem_headache_1_9_1
 - haveheadache
 - haveheadche
 
-
-## intent: problem_headache_1_9_2
+## intent:problem_headache_1_9_2
 - not haveheadache
 - not haveheadche
 
@@ -710,37 +653,29 @@
 - i have very loose stool
 - i had loosemotions too many time in a day
 
-
-## intent: age_0_10
+## intent:age_0_10
 - Above 21
 - abv 21
 
-
-## intent: age_0_10c
+## intent:age_0_10c
 - Below 21
 - blw 21
 
-
-## intent: weight_0_11
+## intent:weight_0_11
 - Above 60kgs
 - abv 60kgs
 
-## intent: weight_0_11c
+## intent:weight_0_11c
 - Below 60kgs
 - blw 60kgs
 
-
-
-
-## intent: have_report
+## intent:have_report
 - havereport
 - haverep
 
-
-## intent: no_report
+## intent:no_report
 - noreport
 - norep
-
 
 ## intent:problem_hospital_0_14
 - chst pain
@@ -771,7 +706,122 @@
 - fracture
 - accident
 
+## intent:problem_conjunctivitis
+- red eyes
+- redness in eye
+- my eyes are red
+- redening of eyes
+- my eyes are growing red
+- my eyes are watery
+- watery eyes
+- wet eyes
+- teary eyes
+- itching in eyes
+- my eyes are itching
+- scratchy eyes
+- conjuctivitis in eyes
+- my eyes are scratching
+- my eyes are red and its scratching
 
+## intent:problem_gerd
+- heartburn
+- burning sensation in chest
+- difficulty while swallowing
+- burning chest
+- pain while swallowing
+- regurgitation of food
+- sour liquid
+- lump in throat
+- stuckness in throat
+- i am having problem in sweeling
+- i am having problem in swallowing
+- sor liquid
+- hart burn
+- lump throat 
+- chest burning
+- i am having burning sensation in chest
+- i feel something in throat
+- painful swallowing
 
+## intent:problem_diabetes
+- i am facing urinating tendency
+- i am having peeing tenedency
+- i always feel like urinating
+- i always feel like peeing
+- i repeatedly go for urinating
+- i repeatedly pee
+- i feeling thirsty at all times
+- i am always thirsty
+- i feel like drinking water always
+- i am peeing too much
+- weight loss
+- i had weightloss
+- decrease in weight
+- i am losing weight without exercise
+- i feel hungry always
+- feeling apetite
+- exhausted
+- i feel tired
+- i get exhausted in little amount of work
 
+## intent:problem_allergy_rhinitis
+- i am sneezing too much
+- sneezing continuously
+- continued sneezing
+- continually sneezed and red node
+- sneezing on and on
+- my nose is blocked and its red and itching
+- nose block
+- nasal block
+- i have blocked and itchy nose
+- itchy nose
+- nose itching
+- nose scratching
+- scratchy nose
+- tickling nose
+- tickled nose
+- redness of nose
+- nose red and itching
+- i have sneezing and nose blockage
+- i am having scratchy nose and sneezing
+- i am feeling sneezy
+- i am sneezing continuously
+- i have been sneezing continuously
+- i have been sneezing on and on
+- my nose is blocked
+- i have blocked nose
+- my nose is red
+- i have red nose
+- i have scratchy nose 
+- my nose is scratching
+- my nose is itching
+- i have itchy nose
+- my nose tickles
+- i have tickling nose
 
+## intent:problem_fungal_infection
+- irritation in skin
+- i have scaly skin
+- my skin is scaly skin
+- scaly skn
+- scly skn
+- i have redness on skin
+- red skin
+- colour of skin becoming red
+- redness of skin
+- itching in hands and legs
+- iching on skin
+- i have itchiness everywhere
+- i have swelling skin
+- swelled skin
+- blisters on my skin
+- i have skin blsters
+- blstrs
+- my skin is irritating
+- i have irritation
+- i have scaly skin
+- my skin is scaly and itchy
+- i am having itching
+- i am having blisters
+- i have blisters
+- the colour of my skin is becoming red

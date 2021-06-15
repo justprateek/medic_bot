@@ -25,6 +25,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 ## interactive_story_1
 * greet_0_1
@@ -48,6 +49,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -72,6 +74,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -96,6 +99,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 ## interactive_story_1
 * greet_0_1
@@ -119,6 +123,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 ## interactive_story_1
 * greet_0_1
@@ -142,6 +147,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## booking_story
@@ -163,6 +169,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 
@@ -174,9 +181,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -206,6 +212,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -215,9 +222,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -247,6 +253,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -256,9 +263,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -272,6 +278,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -281,9 +288,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -297,6 +303,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 ## interactive_story_2
 * greet_0_1
@@ -305,9 +312,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -321,6 +327,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 
@@ -331,9 +338,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -347,6 +353,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 ## interactive_story_2
 * greet_0_1
@@ -355,9 +362,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -371,6 +377,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_2
@@ -380,9 +387,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -396,6 +402,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_2
@@ -405,9 +412,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -421,6 +427,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 
@@ -434,9 +441,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -450,6 +456,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -459,9 +466,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -475,6 +481,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 ## interactive_story_2
 * greet_0_1
@@ -483,9 +490,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -499,6 +505,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_2
@@ -508,9 +515,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -524,6 +530,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -533,9 +540,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -549,6 +555,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -558,9 +565,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -574,6 +580,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_2
@@ -598,6 +605,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -607,9 +615,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -623,6 +630,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## interactive_story_1
@@ -632,9 +640,8 @@
 * select_question_0_8
   - utter_continue_with_question_0_10
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -648,6 +655,7 @@
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
 
 
 ## no
@@ -668,9 +676,8 @@
 
 ## health_related
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -682,15 +689,15 @@
 * weight_0_11
   - utter_headache_1_4_3
   - utter_any_other_question_0_8
+  - action_save_conversation
 
 
 
 
 ## health_related
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -702,13 +709,13 @@
 * weight_0_11c
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+  - action_save_conversation
 
 
 ## health_related
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -720,13 +727,13 @@
 * weight_0_11c
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+  - action_save_conversation
 
 
 ## health_related
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1
@@ -738,6 +745,7 @@
 * weight_0_11
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+  - action_save_conversation
   
 
 
@@ -747,9 +755,8 @@
 
 ## health_related
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -765,9 +772,8 @@
 
 ## health_related
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -783,9 +789,8 @@
 
 ## health_related
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -801,9 +806,8 @@
 
 ## health_related
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -820,9 +824,8 @@
 
 ## cold
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_nasal_1_5_1
   - utter_ask_duration_0_14
@@ -833,9 +836,8 @@
 
 ## cold
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_nasal_1_5_1
   - utter_ask_duration_0_14
@@ -849,9 +851,8 @@
 
 ## cold
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_nasal_1_5_1
   - utter_ask_duration_0_14
@@ -866,9 +867,8 @@
 
 ## cold
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_nasal_1_5_1
   - utter_ask_duration_0_14
@@ -882,9 +882,8 @@
 
 ## cold
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_nasal_1_5_1
   - utter_ask_duration_0_14
@@ -904,9 +903,8 @@
 
 ## cough
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_not_nasal_1_5_2
   - utter_ask_duration_0_14
@@ -917,9 +915,8 @@
 
 ## cough
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_not_nasal_1_5_2
   - utter_ask_duration_0_14
@@ -934,9 +931,8 @@
 
 ## cough
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_not_nasal_1_5_2
   - utter_ask_duration_0_14
@@ -951,9 +947,8 @@
 
 ## cough
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_not_nasal_1_5_2
   - utter_ask_duration_0_14
@@ -968,9 +963,8 @@
 
 ## cough
 * problem_cough_or_cold_1_5
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_nasal_1_5_1
 * problem_not_nasal_1_5_2
   - utter_ask_duration_0_14
@@ -986,9 +980,8 @@
 
 ## health_related
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1008,9 +1001,8 @@
 
 ## health_related
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1028,9 +1020,8 @@
 
 ## health_related
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1048,9 +1039,8 @@
 
 ## health_related
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1073,9 +1063,8 @@
 
 ## health_related
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1093,9 +1082,8 @@
 
 ## health_related
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1113,9 +1101,8 @@
 
 ## health_related
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1133,9 +1120,8 @@
 
 ## health_related
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1154,9 +1140,8 @@
 
 ## cold
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1169,9 +1154,8 @@
 
 ## cold
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1187,9 +1171,8 @@
 
 ## cold
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1206,9 +1189,8 @@
 
 ## cold
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1224,9 +1206,8 @@
 
 ## cold
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1248,9 +1229,8 @@
 
 ## cough
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1263,9 +1243,8 @@
 
 ## cough
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1282,9 +1261,8 @@
 
 ## cough
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1301,9 +1279,8 @@
 
 ## cough
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1320,9 +1297,8 @@
 
 ## cough
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1340,9 +1316,8 @@
 
 ## fever
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_ask_nasal_1_5_1
@@ -1363,9 +1338,8 @@
 
 ## fungal
 * problem_fungal_1_6
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
@@ -1374,9 +1348,8 @@
 
 ## fungal
 * problem_fungal_1_6
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_duration_0_14
 * small_duration_0_12
   - utter_ask_age_0_12
@@ -1389,9 +1362,8 @@
 
 ## fungal
 * problem_fungal_1_6
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_duration_0_14
 * small_duration_0_12
   - utter_ask_age_0_12
@@ -1404,9 +1376,8 @@
 
 ## fungal
 * problem_fungal_1_6
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_duration_0_14
 * small_duration_0_12
   - utter_ask_age_0_12
@@ -1419,9 +1390,8 @@
 
 ## fungal
 * problem_fungal_1_6
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_duration_0_14
 * small_duration_0_12
   - utter_ask_age_0_12
@@ -1437,9 +1407,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_diarrhea_1_7_1
   - utter_ask_duration_0_14
@@ -1448,9 +1417,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_not_diarrhea_1_7_2
   - utter_ask_duration_0_14
@@ -1462,9 +1430,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_diarrhea_1_7_1
   - utter_ask_duration_0_14
@@ -1479,9 +1446,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_diarrhea_1_7_1
   - utter_ask_duration_0_14
@@ -1496,9 +1462,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_diarrhea_1_7_1
   - utter_ask_duration_0_14
@@ -1513,9 +1478,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_diarrhea_1_7_1
   - utter_ask_duration_0_14
@@ -1534,9 +1498,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_not_diarrhea_1_7_2
   - utter_ask_duration_0_14
@@ -1551,9 +1514,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_not_diarrhea_1_7_2
   - utter_ask_duration_0_14
@@ -1567,9 +1529,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_not_diarrhea_1_7_2
   - utter_ask_duration_0_14
@@ -1584,9 +1545,8 @@
 
 ## stomach
 * problem_stomach_1_7
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_diarrhea_1_7_1
 * problem_not_diarrhea_1_7_2
   - utter_ask_duration_0_14
@@ -1602,9 +1562,8 @@
 
 ## long_duration_fever
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_1
   - utter_headache_1_4_1
@@ -1617,9 +1576,8 @@
 
 ## long_duration_fever
 * problem_fever_1_8
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_ask_headache_1_9
 * problem_headache_1_9_2
   - utter_headache_1_4_1
@@ -1631,9 +1589,8 @@
 
 ## long duration
 * problem_headache_1_4
-  - utter_ask_report_0_16
-* have_report
-  - utter_upload_0_17
+   - utter_ask_report_0_16
+* no_report 
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_1 OR problem_headache_1_4_2

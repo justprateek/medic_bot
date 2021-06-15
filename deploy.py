@@ -8,7 +8,7 @@ import os
 app = Flask(__name__)
 app.secret_key = 'mysecret'
 
-app.config['MONGO_URI'] = 'mongodb+srv://healdbuser:Cnylr88zwJjLuO5E@cluster0.azdmk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+app.config['MONGO_URI'] = 'mongodb+srv://prateek:healfavor@cluster0.hmlcl.mongodb.net/Healfavor?retryWrites=true&w=majority'
 mongo = PyMongo(app)
 
 UPLOAD_FOLDER = 'uploads/'

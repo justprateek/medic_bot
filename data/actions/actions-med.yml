@@ -29,3 +29,4 @@ actions:
 - utter_joint_pain_1_14
 - utter_diet_1_15
 - utter_insomnia_1_16
+- action_save_conversation

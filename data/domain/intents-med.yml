@@ -30,13 +30,10 @@ intents:
 - problem_headache_1_9_2
 - have_report
 - no_report
-
-
-
-
-
-
-
-
+- problem_conjunctivitis
+- problem_gerd
+- problem_diabetes
+- problem_allergy_rhinitis
+- problem_fungal_infection
 
 

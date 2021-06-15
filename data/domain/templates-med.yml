@@ -1,4 +1,4 @@
-templates:
+responses:
   utter_any_other_question_0_8:
     - text: "Do you have any other issues other than this?"
   utter_ask_booking_or_question_0_2:
