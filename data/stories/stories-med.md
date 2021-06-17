@@ -26,6 +26,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 ## interactive_story_1
 * greet_0_1
@@ -50,6 +51,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -75,6 +77,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -100,6 +103,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 ## interactive_story_1
 * greet_0_1
@@ -124,6 +128,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 ## interactive_story_1
 * greet_0_1
@@ -148,6 +153,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## booking_story
@@ -170,6 +176,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 
@@ -213,6 +220,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -254,6 +262,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -279,6 +288,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -289,7 +299,7 @@
   - utter_continue_with_question_0_10
 * problem_headache_1_4
    - utter_ask_report_0_16
-* no_report 
+* no_report
   - utter_headache_1_4_1
   - utter_headache_1_4_2
 * problem_headache_1_4_2
@@ -304,6 +314,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 ## interactive_story_2
 * greet_0_1
@@ -328,6 +339,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 
@@ -354,6 +366,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 ## interactive_story_2
 * greet_0_1
@@ -378,6 +391,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_2
@@ -403,6 +417,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_2
@@ -428,6 +443,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 
@@ -457,6 +473,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -482,6 +499,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 ## interactive_story_2
 * greet_0_1
@@ -506,6 +524,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_2
@@ -531,6 +550,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -556,6 +576,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -581,6 +602,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_2
@@ -606,6 +628,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -631,6 +654,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## interactive_story_1
@@ -656,21 +680,28 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 ## no
 * get_no_0_7
   - utter_have_a_good_day_0_9
+  - action_save_conversation
+  - utter_saved_details
 
 ## select_question
 * select_question_0_8
   - utter_continue_with_question_0_10
+  - action_save_conversation
+  - utter_saved_details
 
 
 
 ## random
 * random_0_9
   - utter_cannot_understand_0_11
+  - action_save_conversation
+  - utter_saved_details
 
 
 
@@ -690,6 +721,7 @@
   - utter_headache_1_4_3
   - utter_any_other_question_0_8
   - action_save_conversation
+  - utter_saved_details
 
 
 
@@ -710,6 +742,7 @@
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
   - action_save_conversation
+  - utter_saved_details
 
 
 ## health_related
@@ -728,6 +761,7 @@
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
   - action_save_conversation
+  - utter_saved_details
 
 
 ## health_related
@@ -746,6 +780,7 @@
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
   - action_save_conversation
+  - utter_saved_details
   
 
 
@@ -768,6 +803,8 @@
 * weight_0_11
   - utter_headache_1_4_4
   - utter_any_other_question_0_8
+  - action_save_conversation
+  - utter_saved_details
 
 
 ## health_related
@@ -785,6 +822,8 @@
 * weight_0_11c
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+  - action_save_conversation
+  - utter_saved_details
 
 
 ## health_related
@@ -802,6 +841,8 @@
 * weight_0_11
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+  - action_save_conversation
+  - utter_saved_details
 
 
 ## health_related
@@ -819,6 +860,8 @@
 * weight_0_11c
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+  - action_save_conversation
+  - utter_saved_details
 
 
 
@@ -831,6 +874,8 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
+  - action_save_conversation
+  - utter_saved_details
 
 
 
@@ -848,6 +893,8 @@
 * weight_0_11
   - utter_cold_1_5_1
   - utter_any_other_question_0_8
+  - action_save_conversation
+  - utter_saved_details
 
 ## cold
 * problem_cough_or_cold_1_5
@@ -863,6 +910,8 @@
 * weight_0_11
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+  - action_save_conversation
+  - utter_saved_details
 
 
 ## cold
@@ -879,6 +928,8 @@
 * weight_0_11c
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+  - action_save_conversation
+  - utter_saved_details
 
 ## cold
 * problem_cough_or_cold_1_5

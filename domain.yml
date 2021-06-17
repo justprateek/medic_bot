@@ -1,3 +1,299 @@
+version: '2.0'
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- get_time_0_6:
+    use_entities: true
+- greet_0_1:
+    use_entities: true
+- get_no_0_7:
+    use_entities: true
+- get_speciality_0_3:
+    use_entities: true
+- get_date_and_month_0_5:
+    use_entities: true
+- select_booking_0_2:
+    use_entities: true
+- get_doctor_name_0_4:
+    use_entities: true
+- select_question_0_8:
+    use_entities: true
+- random_0_9:
+    use_entities: true
+- age_0_10:
+    use_entities: true
+- age_0_10c:
+    use_entities: true
+- weight_0_11:
+    use_entities: true
+- weight_0_11c:
+    use_entities: true
+- small_duration_0_12:
+    use_entities: true
+- long_duration_0_13:
+    use_entities: true
+- problem_hospital_0_14:
+    use_entities: true
+- problem_headache_1_4:
+    use_entities: true
+- problem_headache_1_4_1:
+    use_entities: true
+- problem_headache_1_4_2:
+    use_entities: true
+- problem_cough_or_cold_1_5:
+    use_entities: true
+- problem_nasal_1_5_1:
+    use_entities: true
+- problem_not_nasal_1_5_2:
+    use_entities: true
+- problem_fungal_1_6:
+    use_entities: true
+- problem_diarrhea_1_7_1:
+    use_entities: true
+- problem_not_diarrhea_1_7_2:
+    use_entities: true
+- problem_stomach_1_7:
+    use_entities: true
+- problem_fever_1_8:
+    use_entities: true
+- problem_headache_1_9_1:
+    use_entities: true
+- problem_headache_1_9_2:
+    use_entities: true
+- have_report:
+    use_entities: true
+- no_report:
+    use_entities: true
+- problem_conjunctivitis:
+    use_entities: true
+- problem_gerd:
+    use_entities: true
+- problem_diabetes:
+    use_entities: true
+- problem_allergy_rhinitis:
+    use_entities: true
+- problem_fungal_infection:
+    use_entities: true
+- problem_chickenpox:
+    use_entities: true
+- problem_typhoid:
+    use_entities: true
+- problem_psoriasis:
+    use_entities: true
+- problem_obesity:
+    use_entities: true
+- problem_insomnia:
+    use_entities: true
+- problem_psychosis:
+    use_entities: true
+- problem_depression:
+    use_entities: true
+- problem_pneumonia:
+    use_entities: true
+- problem_insomnia:
+    use_entities: true
+- problem_depression:
+    use_entities: true
+- problem_psychosis:
+    use_entities: true
+
+entities:
+- date
+- doctor_name
+- month
+- time
+- speciality
+- doctor_name
+slots:
+  date:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  doctor_name:
+    type: rasa.shared.core.slots.UnfeaturizedSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: false
+  month:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  speciality:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+  time:
+    type: rasa.shared.core.slots.TextSlot
+    initial_value: null
+    auto_fill: true
+    influence_conversation: true
+responses:
+  utter_any_other_question_0_8:
+  - text: Do you have any other issues other than this?
+  utter_ask_booking_or_question_0_2:
+  - text: Do you need an appointment or you have any question for me?
+  utter_ask_date_and_month_0_5:
+  - text: Please let me know the date and month you want to book
+  utter_ask_doctor_name_0_4:
+  - buttons:
+    - payload: Dr. Gupta
+      title: Dr. Gupta
+    - payload: Dr. Ray
+      title: Dr. Ray
+    text: The recommended doctor as per your requirements are
+  - buttons:
+    - payload: Dr. Joshi
+      title: Dr. Joshi
+    - payload: Dr. Roy
+      title: Dr. Roy
+    text: The recommended doctor as per your requirements are
+  - buttons:
+    - payload: Dr. Bajaj
+      title: Dr. Bajaj
+    - payload: Dr. Nair
+      title: Dr. Nair
+    text: The recommended doctor as per your requirements are
+  - buttons:
+    - payload: 'Dr. Sen '
+      title: 'Dr. Sen '
+    - payload: Dr. Bora
+      title: Dr. Bora
+    text: The recommended doctor as per your requirements are
+  - buttons:
+    - payload: Dr. Khan
+      title: Dr. Khan
+    - payload: Dr. Chopra
+      title: Dr. Chopra
+    text: The recommended doctor as per your requirements are
+  - buttons:
+    - payload: Dr. Dalal
+      title: Dr. Dalal
+    - payload: Dr. Thakur
+      title: Dr. Thakur
+    text: The recommended doctor as per your requirements are
+  utter_ask_doctor_speciality_0_3:
+  - buttons:
+    - payload: General Practitioner
+      title: General Practitioner
+    - payload: Radiologist
+      title: Radiologist
+    - payload: Dermatologist
+      title: Dermatologist
+    text: Please tell me which consultant you require?
+  utter_ask_time_0_6:
+  - text: Fow what time you require an appointment the available slots are 9-12 and 2-5
+  utter_continue_with_question_0_10:
+  - text: Ok Sure, you may continue to ask me. How can I help you.
+  utter_cannot_understand_0_11:
+  - text: Sorry, I have not understood could you please repeat or explain your problem in detail.
+  utter_ask_age_0_12:
+  - buttons:
+    - payload: /weight_0_11c
+      title: Below 18
+    - payload: /age_0_10
+      title: Above 18
+    text: Which age range you fall into?
+  utter_ask_weight_0_13:
+  - buttons:
+    - payload: /weight_0_11c
+      title: Below 55kgs
+    - payload: /weight_0_11
+      title: Above 55kgs
+    text: Your weight range
+  utter_ask_duration_0_14:
+  - buttons:
+    - payload: /small_duration_0_12
+      title: Less than 3 days
+    - payload: /long_duration_0_13
+      title: 3 days or more
+    text: Duration of your prevailing symptoms
+  utter_hospital_0_15:
+  - text: Please go to the hospital for consultation.
+  utter_ask_report_0_16:
+  - buttons:
+    - payload: /have_report
+      title: Have Report
+    - payload: /no_report
+      title: No Report
+    text: Do you have any reports or images to upload?
+  utter_upload_0_17:
+  - text: Please upload your files [Here](/upload){:target="_blank"}
+  utter_final_booking_0_7:
+  - text: You have booked an appointment of Dr.{doctor_name} who is a {speciality} on {date} of {month} at {time}
+  utter_have_a_good_day_0_9:
+  - buttons:
+    - payload: /session_start
+      title: Restart Conversation
+    text: Have a good day
+  utter_welcome_0_1:
+  - text: Hi and Welcome! Medical AI Assistant is ready to help you here.
+  utter_headache_1_4_1:
+  - image: static/imgs/bot/headache.png
+    text: ''
+  utter_headache_1_4_2:
+  - buttons:
+    - payload: /problem_headache_1_4_1
+      title: '1'
+    - payload: /problem_headache_1_4_2
+      title: '2'
+    text: Where do you have head pain.
+  utter_headache_1_4_3:
+  - text: Since, you have sinus, You should take a 10mg dosage of Cetirizine after taking your food. Do consider visiting the doctor if the problem persists.
+  utter_headache_1_4_3c:
+  - text: Since, you have sinus, You should take a 5mg dosage of Cetirizine after taking your food. Do consider visiting the doctor if the problem persists.
+  utter_headache_1_4_4:
+  - text: Since, you have headache due to tension, relax a bit, you may take a dose of 1000mg dosage of paracetamol after taking your food. Do consider visiting the doctor if the problem persists.
+  utter_headache_1_4_4c:
+  - text: Since, you have headache due to tension, relax a bit, you may take a dose of 500mg dosage of paracetamol after taking your food. Do consider visiting the doctor if the problem persists.
+  utter_ask_nasal_1_5_1:
+  - buttons:
+    - payload: /problem_nasal_1_5_1
+      title: Yes
+    - payload: /problem_not_nasal_1_5_2
+      title: No
+    text: Do you have nasal blockage?
+  utter_cold_1_5_1:
+  - text: You have a cold. You should take a 10mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+  utter_cold_1_5_1c:
+  - text: You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+  utter_cough_1_5_2:
+  - text: You have a cough. You should take a 10mL dosage of Benadryl Syrup after your dinner, if the problem persists, do visit a doctor.
+  utter_cough_1_5_2c:
+  - text: You have a cough. You should take a 5mL dosage of Benadryl Syrup after your dinner, if the problem persists, do visit a doctor.
+  utter_fungal_1_6:
+  - text: Since you have a skin infection, take a 200mg dosage of fluconazole, if the problem persists, do visit a doctor.
+  utter_fungal_1_6c:
+  - text: Since you have a skin infection, take a 100mg dosage of fluconazole, if the problem persists, do visit a doctor.
+  utter_ask_diarrhea_1_7_1:
+  - buttons:
+    - payload: /problem_diarrhea_1_7_1
+      title: Yes
+    - payload: /problem_not_diarrhea_1_7_2
+      title: No
+    text: Do you have loos stools more than 5 times in a day?
+  utter_diarrhea_1_7:
+  - text: Since you have diarrhea, take 4mg dosage of loperamide.
+  utter_diarrhea_1_7c:
+  - text: Since you have diarrhea, take 2mg dosage of loperamide.
+  utter_loose_motion_1_8:
+  - text: Since you have loose motions, drink electrolyted water.
+  utter_loose_motion_1_8c:
+  - text: Since you have loose motions, drink electrolyted water.
+  utter_ask_headache_1_9:
+  - buttons:
+    - payload: /problem_headache_1_9_1
+      title: Yes
+    - payload: /problem_headache_1_9_2
+      title: No
+    text: Do you have headache?
+  utter_saved_details:
+  - text: I have saved your details.
 actions:
 - utter_any_other_question_0_8
 - utter_ask_booking_or_question_0_2
@@ -35,304 +331,7 @@ actions:
 - utter_loose_motion_1_8
 - utter_loose_motion_1_8c
 - utter_ask_headache_1_9
-responses:
-  utter_any_other_question_0_8:
-  -
-    text: Do you have any other issues other than this?
-  utter_ask_booking_or_question_0_2:
-  -
-    text: Do you need an appointment or you have any question for me?
-  utter_ask_date_and_month_0_5:
-  -
-    text: Please let me know the date and month you want to book
-  utter_ask_doctor_name_0_4:
-  -
-    text: The recommended doctor as per your requirements are
-    buttons:
-    -
-      title: Dr. Gupta
-      payload: Dr. Gupta
-    -
-      title: Dr. Ray
-      payload: Dr. Ray
-  -
-    text: The recommended doctor as per your requirements are
-    buttons:
-    -
-      title: Dr. Joshi
-      payload: Dr. Joshi
-    -
-      title: Dr. Roy
-      payload: Dr. Roy
-  -
-    text: The recommended doctor as per your requirements are
-    buttons:
-    -
-      title: Dr. Bajaj
-      payload: Dr. Bajaj
-    -
-      title: Dr. Nair
-      payload: Dr. Nair
-  -
-    text: The recommended doctor as per your requirements are
-    buttons:
-    -
-      title: 'Dr. Sen '
-      payload: 'Dr. Sen '
-    -
-      title: Dr. Bora
-      payload: Dr. Bora
-  -
-    text: The recommended doctor as per your requirements are
-    buttons:
-    -
-      title: Dr. Khan
-      payload: Dr. Khan
-    -
-      title: Dr. Chopra
-      payload: Dr. Chopra
-  -
-    text: The recommended doctor as per your requirements are
-    buttons:
-    -
-      title: Dr. Dalal
-      payload: Dr. Dalal
-    -
-      title: Dr. Thakur
-      payload: Dr. Thakur
-  utter_ask_doctor_speciality_0_3:
-  -
-    text: Please tell me which consultant you require?
-    buttons:
-    -
-      title: General Practitioner
-      payload: General Practitioner
-    -
-      title: Radiologist
-      payload: Radiologist
-    -
-      title: Dermatologist
-      payload: Dermatologist
-  utter_ask_time_0_6:
-  -
-    text: Fow what time you require an appointment the available slots are 9-12 and
-      2-5
-  utter_continue_with_question_0_10:
-  -
-    text: Ok Sure, you may continue to ask me. How can I help you.
-  utter_cannot_understand_0_11:
-  -
-    text: Sorry, I have not understood could you please repeat or explain your problem
-      in detail.
-  utter_ask_age_0_12:
-  -
-    text: Which age range you fall into?
-    buttons:
-    -
-      title: Below 18
-      payload: /weight_0_11c
-    -
-      title: Above 18
-      payload: /age_0_10
-  utter_ask_weight_0_13:
-  -
-    text: Your weight range
-    buttons:
-    -
-      title: Below 55kgs
-      payload: /weight_0_11c
-    -
-      title: Above 55kgs
-      payload: /weight_0_11
-  utter_ask_duration_0_14:
-  -
-    text: Duration of your prevailing symptoms
-    buttons:
-    -
-      title: Less than 3 days
-      payload: /small_duration_0_12
-    -
-      title: 3 days or more
-      payload: /long_duration_0_13
-  utter_hospital_0_15:
-  -
-    text: Please go to the hospital for consultation.
-  utter_ask_report_0_16:
-  -
-    text: Do you have any reports or images to upload?
-    buttons:
-    -
-      title: Have Report
-      payload: /have_report
-    -
-      title: No Report
-      payload: /no_report
-  utter_upload_0_17:
-  -
-    text: Please upload your files [Here](/upload){:target="_blank"}
-  utter_final_booking_0_7:
-  -
-    text: You have booked an appointment of Dr.{doctor_name} who is a {speciality}
-      on {date} of {month} at {time}
-  utter_have_a_good_day_0_9:
-  -
-    text: Have a good day
-    buttons:
-    -
-      title: Restart Conversation
-      payload: /session_start
-  utter_welcome_0_1:
-  -
-    text: Hi and Welcome! Medical AI Assistant is ready to help you here.
-  utter_headache_1_4_1:
-  -
-    text: ''
-    image: static/imgs/bot/headache.png
-  utter_headache_1_4_2:
-  -
-    text: Where do you have head pain.
-    buttons:
-    -
-      title: '1'
-      payload: /problem_headache_1_4_1
-    -
-      title: '2'
-      payload: /problem_headache_1_4_2
-  utter_headache_1_4_3:
-  -
-    text: Since, you have sinus, You should take a 10mg dosage of Cetirizine after
-      taking your food. Do consider visiting the doctor if the problem persists.
-  utter_headache_1_4_3c:
-  -
-    text: Since, you have sinus, You should take a 5mg dosage of Cetirizine after
-      taking your food. Do consider visiting the doctor if the problem persists.
-  utter_headache_1_4_4:
-  -
-    text: Since, you have headache due to tension, relax a bit, you may take a dose
-      of 1000mg dosage of paracetamol after taking your food. Do consider visiting
-      the doctor if the problem persists.
-  utter_headache_1_4_4c:
-  -
-    text: Since, you have headache due to tension, relax a bit, you may take a dose
-      of 500mg dosage of paracetamol after taking your food. Do consider visiting
-      the doctor if the problem persists.
-  utter_ask_nasal_1_5_1:
-  -
-    text: Do you have nasal blockage?
-    buttons:
-    -
-      title: Yes
-      payload: /problem_nasal_1_5_1
-    -
-      title: No
-      payload: /problem_not_nasal_1_5_2
-  utter_cold_1_5_1:
-  -
-    text: You have a cold. You should take a 10mg dosage of Cetrizine after your dinner,
-      if the problem persists, do visit a doctor.
-  utter_cold_1_5_1c:
-  -
-    text: You have a cold. You should take a 5mg dosage of Cetrizine after your dinner,
-      if the problem persists, do visit a doctor.
-  utter_cough_1_5_2:
-  -
-    text: You have a cough. You should take a 10mL dosage of Benadryl Syrup after
-      your dinner, if the problem persists, do visit a doctor.
-  utter_cough_1_5_2c:
-  -
-    text: You have a cough. You should take a 5mL dosage of Benadryl Syrup after your
-      dinner, if the problem persists, do visit a doctor.
-  utter_fungal_1_6:
-  -
-    text: Since you have a skin infection, take a 200mg dosage of fluconazole, if
-      the problem persists, do visit a doctor.
-  utter_fungal_1_6c:
-  -
-    text: Since you have a skin infection, take a 100mg dosage of fluconazole, if
-      the problem persists, do visit a doctor.
-  utter_ask_diarrhea_1_7_1:
-  -
-    text: Do you have loos stools more than 5 times in a day?
-    buttons:
-    -
-      title: Yes
-      payload: /problem_diarrhea_1_7_1
-    -
-      title: No
-      payload: /problem_not_diarrhea_1_7_2
-  utter_diarrhea_1_7:
-  -
-    text: Since you have diarrhea, take 4mg dosage of loperamide.
-  utter_diarrhea_1_7c:
-  -
-    text: Since you have diarrhea, take 2mg dosage of loperamide.
-  utter_loose_motion_1_8:
-  -
-    text: Since you have loose motions, drink electrolyted water.
-  utter_loose_motion_1_8c:
-  -
-    text: Since you have loose motions, drink electrolyted water.
-  utter_ask_headache_1_9:
-  -
-    text: Do you have headache?
-    buttons:
-    -
-      title: Yes
-      payload: /problem_headache_1_9_1
-    -
-      title: No
-      payload: /problem_headache_1_9_2
-slots:
-  date:
-    type: text
-  doctor_name:
-    type: unfeaturized
-  month:
-    type: text
-  speciality:
-    type: text
-  time:
-    type: text
-entities:
-- date
-- doctor_name
-- month
-- time
-- speciality
-intents:
-- get_time_0_6
-- greet_0_1
-- get_no_0_7
-- get_speciality_0_3
-- get_date_and_month_0_5
-- select_booking_0_2
-- get_doctor_name_0_4
-- select_question_0_8
-- random_0_9
-- age_0_10
-- age_0_10c
-- weight_0_11
-- weight_0_11c
-- small_duration_0_12
-- long_duration_0_13
-- problem_hospital_0_14
-- problem_headache_1_4
-- problem_headache_1_4_1
-- problem_headache_1_4_2
-- problem_cough_or_cold_1_5
-- problem_nasal_1_5_1
-- problem_not_nasal_1_5_2
-- problem_fungal_1_6
-- problem_diarrhea_1_7_1
-- problem_not_diarrhea_1_7_2
-- problem_stomach_1_7
-- problem_fever_1_8
-- problem_headache_1_9_1
-- problem_headache_1_9_2
-- have_report
-- no_report
-- problem_conjunctivitis
-- problem_gerd
-- problem_diabetes
-- problem_allergy_rhinitis
-- problem_fungal_infection
+- action_save_conversation
+- utter_saved_details
+forms: {}
+e2e_actions: []

@@ -706,6 +706,9 @@
 - fracture
 - accident
 
+
+<!-- Deepjoy -->
+
 ## intent:problem_conjunctivitis
 - red eyes
 - redness in eye
@@ -792,7 +795,7 @@
 - i have blocked nose
 - my nose is red
 - i have red nose
-- i have scratchy nose 
+- i have scratchy nose
 - my nose is scratching
 - my nose is itching
 - i have itchy nose
@@ -825,3 +828,122 @@
 - i am having blisters
 - i have blisters
 - the colour of my skin is becoming red
+
+<!-- harsha -->
+
+
+## intent:problem_chickenpox
+- I have skin rashes
+- I have rashes on my skin
+- I always feel itching
+- I always feel fatigue
+- I always feel overtired
+- swelled lymph nodes
+- I have swelled lymph nodes
+- I have swelled lymph nodes all over my body
+- I have red spots
+- I have red spots all over my body
+- loss of appetite
+- malaise
+- I always feel malaise
+- lethargy
+- I always feel lethargy
+
+## intent:problem_typhoid
+- I always feel vomiting
+- I have high fever and vomiting
+- high fever
+- I am having constipation and vomiting
+- constipation
+- I am having abdominal pain
+- I am experiencing pain in my abdomen
+- I am having belly pain
+- I am having pain in my belly
+- I am having fever and vomiting 
+- My body is having chills
+- I am having chills
+
+
+## intent:problem_psoriasis
+- I have joint pains
+- I am having pain in my joints
+- Joint pain
+- skin peeling
+- my skin is peeling so much
+- I am having small dents in nails
+- small dents in nails
+- my nails are having small dents
+- silver like dusting
+- I am having inflammatory nails
+- inflammatory nails
+- my nails are inflammatory
+
+## intent:problem_obesity
+- I am gaining more fat day by day
+- I am overweight
+- I have a pot belly
+- overweight
+- pot belly
+- i have too much body fat
+- i am fat
+- I am having high blood pressure
+- have a habit of binge eating
+- I mostly feel breathlessness
+- I am having difficulties in doing physical activities
+- I always get sweated
+
+<!-- devi -->
+
+## intent:problem_insomnia 
+- I find it difficult to fall asleep
+- I lie awake for long periods at night
+- I wake up several times during the night
+- I wake up early in the morning and not be able to get back to sleep
+- I not feel refreshed when you get up
+- I find it hard to nap during the day, despite feeling tired
+- I feel tired and irritable during the day and have difficulty concentrating
+- Restless nights 
+- Cant sleep at nights 
+- Feels night are very long 
+
+## intent:problem_psychosis
+- I am having hallucinations
+- Getting delusions lately
+- I get episdoes of depression and mania
+- I got severe depression
+- I feel sad a lot
+- i am always angry
+- i feel anger
+- I feel anger resentment
+- I feel triggered stress a lot
+- I stay sad and all depressed for long
+- I had parkinsons disease
+- I had a brain tumour
+- Brain hurts
+
+## intent:problem_depression
+- I have low mood all the time
+- I am worried too much about myself
+- I am depressed
+- i have depression
+- i am sad and depressed
+- I am usually struggling with stress
+- I always quit due to mental tention
+- I got many traumatical situation
+- I feel anxiety very much
+- Have too much sadness
+- Have very sad thoughts
+- Have Negative thoughts a lot
+- i have suicidal thoughts
+- suicidal tendency
+
+## intent:problem_pneumonia 
+- I am having greenish cough  
+- Having yellow cough with bloody mucus 
+- Having fever and shaking chills 
+- I have rapid and shallow breathing 
+- I have fever eith green cough
+- i have cough and its green colour
+- Having stabbing chest aches while deep breathing 
+- Difficulty in deep breathing 
+- Having low energy and fatigue 

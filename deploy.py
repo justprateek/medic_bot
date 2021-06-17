@@ -8,7 +8,7 @@ import os
 app = Flask(__name__)
 app.secret_key = 'mysecret'
 
-app.config['MONGO_URI'] = 'mongodb+srv://prateek:healfavor@cluster0.hmlcl.mongodb.net/Healfavor?retryWrites=true&w=majority'
+app.config['MONGO_URI'] = 'mongodb://localhost:27017/healfavor'
 mongo = PyMongo(app)
 
 UPLOAD_FOLDER = 'uploads/'
@@ -24,11 +24,19 @@ def index():
 
 @app.route('/chatbot')
 def chatbot():
-    # if 'username' in session:
+    if 'username' in session:
         #return 'You are logged in as  :' + session['username']
-    return render_template('bot.html')
-    # test = True
-    # return render_template('login.html', test = test)
+        return render_template('bot.html')
+    test = True
+    return render_template('login.html', test = test)
+
+@app.route('/admin')
+def admin():
+    if 'username' in session:
+        #return 'You are logged in as  :' + session['username']
+        return render_template('admin.html')
+    test = True
+    return render_template('login.html', test = test)
 
 
 @app.route("/upload", methods=['GET', 'POST'])

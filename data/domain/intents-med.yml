@@ -35,5 +35,16 @@ intents:
 - problem_diabetes
 - problem_allergy_rhinitis
 - problem_fungal_infection
+- problem_chickenpox
+- problem_typhoid
+- problem_psoriasis
+- problem_obesity
+- problem_insomnia
+- problem_psychosis
+- problem_depression
+- problem_pneumonia
+
+
+
 
 

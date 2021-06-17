@@ -1,0 +1,26 @@
+intent,user_input,entity_name,entity_value,action,bot_reply
+greet_0_1,'hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_headache_1_4,i have headache,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_fever_1_8,i have fever,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_fever_1_8,i have fever,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?

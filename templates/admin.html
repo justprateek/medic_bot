@@ -1,0 +1,33 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+
+<center>
+	<!-- <h1>Welcome to HealFavor</h1> -->
+	<!-- <img id="logo" src="{{ url_for('static', filename = 'imgs/logo.png')}}">
+	<br><br>
+	<div id="about" class="blue_div">
+		The Prototype Model of the Contextual Agent-Based Medical AI Bot
+	</div>  -->
+
+    <div>
+		<h2>Number of Users :</h2>
+        <h2>Total Number of chats :</h2>
+		<h2>Number of appointments booked :</h2>
+		<h2>Number of patients suggested medicine :</h2>
+    </div>
+
+</center>
+
+
+
+
+<div id="webchat"/>
+<script src="{{ url_for('static', filename = 'webchat-latest.js')}}">
+// Or you can replace latest with a specific version
+</script>
+
+{% endblock %}
+
+
