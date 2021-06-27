@@ -43,6 +43,7 @@ intents:
 - problem_psychosis
 - problem_depression
 - problem_pneumonia
+- problem_bronchial_asthma
 
 
 

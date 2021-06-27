@@ -61,7 +61,7 @@ responses:
     - text: "Which age range you fall into?"
       buttons:
       - title: "Below 18"
-        payload: /weight_0_11c
+        payload: /age_0_10c
       - title: "Above 18"
         payload: /age_0_10
   utter_ask_weight_0_13:
@@ -96,7 +96,6 @@ responses:
       buttons:
         - title: "Restart Conversation"
           payload: /session_start
-
   utter_welcome_0_1:
     - text: Hi and Welcome! Medical AI Assistant is ready to help you here.
   utter_headache_1_4_1:
@@ -160,12 +159,117 @@ responses:
         payload: /problem_headache_1_9_2
   utter_saved_details:
     - text: I have saved your details
-
-
-
-
-
-
-
-
-
+  utter_acne_1_a:
+    - text: You have acne. You should apply 2% Salicilic Acid Face Serum on the infected area after your bath, do visit a doctor.  
+  utter_acne_1_b:
+    - text: You have acne. You should apply 2% Salicilic Acid Face Serum on the infected area after your bath, do visit a doctor.  
+  utter_acne_advice:
+    - text: bath twice, avoid fatty spicy food, drink plenty of water, avoid using too many creams.
+  utter_lowbloodpressure_1_a:
+    - text: You have low BP. You should take 7mg dosage of  midodrine (Orvaten) for every 8 hours, it helps to narrow blood vessels to raise blood pressure, do visit a doctor.  
+  utter_lowbloodpressure_1_b:
+    - text: You have low BP. You should take 10mg dosage of midodrine (Orvaten) for every 8 hours, it helps to narrow blood vessels to raise blood pressure, do visit a doctor.  
+  utter_lowbloodpressure_advice:
+    - text: Drink plenty of water, eat a balanced diet, eat smaller meals, avoid alcohol, check your blood sugar several times a day consult doctor incase of emergency.
+  utter_highbloodpressure_1_a:
+  - text: You have high BP. You should take 5mg dosage of Lisinopril (Prinivil, Zestril) is an ACE inhibitor. Take it after having lunch.  You should take once a day. Do visit a doctor.
+  utter_highbloodpressure_1_b:
+  - text: You have high BP. You should take 10mg dosage of Lisinopril (Prinivil, Zestril) is an ACE inhibitor. Take it after having lunch.  You should take once a day. Do visit a doctor.
+  utter_highbloodpressure_advice:
+  - text: Exercise regularly, loose extra weight, eat a healthy diet, reduce sodium in your diet, quit smoking, limit or avoid alcohol consumption.
+  utter_ringworm_1_a:
+  - text: You have ringworm. You should apply lotrimin ointment on the infected area , do visit a doctor.
+  utter_ringworm_1_b:
+  - text: You have ringworm. You should apply lotrimin ointment on the infected area , do visit a doctor.
+  utter_ringworm_advice:
+  - text: Wash the infected area regularly. Don’t use wet clothes.
+  utter_toothache_1_a:
+  - text: You have toothache. You should take one tablet of Diclofenac when you get pain , do visit a doctor.
+  utter_toothache_1_b:
+  - text: You have toothache. You should take one tablet of Diclofenac when you get pain, do visit a doctor.
+  utter_toothache_advice:
+  - text: rinse your mouth with warm water. Use dental floss to remove any food particles or plaque wedged between your teeth.
+  utter_migraine_1_a:
+  - text: You have migraine. You should take 25mg dosage of sumatriptan when you get pain , do visit a doctor.
+  utter_migraine_1_b:
+  - text: You have toothache. You should take 50mg dosage of sumatriptan when you get pain, do visit a doctor.
+  utter_migraine_advice:
+  - text: try a cold pack, get some caffeine, practice relaxation.
+  utter_conjunctivitis_1_a:
+  - text : You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+  utter_conjunctivitis_1_b:
+  - text : You have conjunctivitis. Take ciprofloxacin 2 drops thrice a day, do visit a doctor. 
+  utter_conjunctivitis_advice:
+  - text : Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+  utter_gerd_1_a:
+  - text : You have gerd. Take antacids to reduce pepsids. Take PPIs eg esomeprazole (Nexium) omeprazole (Prilosec) lansoprazole (Prevacid) for long terms 2 dozes daily, do visit a doctor. 
+  utter_gerd_1_b:
+  - text : You have gerd. Take famotidine (Pepcid) and nizatidine 10mg tablets twice a day, do visit a doctor. 
+  utter_gerd_advice:
+  - text : If not taken care by medications, go for surger like LINX or TIF.
+  utter_diabetes_1_a:
+  - text : You have diabetes. Take 5-6 mg dozes of metformin (Glumetza, others), liraglutide (Victoza) and insulin daily basis, do visit a doctor.
+  utter_diabetes_1_b: 
+  - text : You have diabetes. Take 2-5mg of glimepiride (Amaryl), glimepiride-pioglitazone (Duetact) dozes daily, do visit a doctor. 
+  utter_diabetes_advice: 
+  - text : Choose healthier carbohydrates, Eat less salt, Eat more fruits, Cut down sugar.
+  utter_allergy_rhinitis_1_a: 
+  - text : You have allergy rhinitis. Take 10ml of Cetirizine (Zyrtec), Diphenhydramine (Benadryl) , do visit a doctor. 
+  utter_allergy_rhinitis_1_b: 
+  - text : You have allergy rhinitis. Take 10mg dozes of levocetirizine (Xyzal), cetirizine (Zyrtec) , do visit a doctor
+  utter_allergy_rhinitis_advice: 
+  - text : Use Antihistamines, Decongestants, Eye drops and nasal sprays. 
+  utter_fungal_infection_1_a: 
+  - text : You have fungal infection. Take 5-10mg of 1% cream Terbinafine 1 or 2 times a day, or nystalin ointment once a day, do visit a doctor. 
+  utter_fungal_infection_1_b: 
+  - text :  You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+  utter_fungal_infection_advice: 
+  - text : Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+  utter_chickenpox_1_a: 
+  - text : You have chickenpox. Take 10mg tablets daily acyclovir eg Sitavig 1doze daily, do visit a doctor. 
+  utter_chickenpox_1_b: 
+  - text : You have chickenpox. Take 5mg tablets of Zovirax, apply calamine lotion 2mg daily, do visit a doctor. 
+  utter_chickenpox_advice: 
+  - text : Wear mittens to prevent scratching, Take baking soda baths, Use chamomile compresses, Have approved pain relievers
+  utter_typhoid_1_a: 
+  - text : You have typhoid. azithromycin given for 7 days at a dosage of 10 mg/kg/day, maximum 500mg a day, do visit a doctor. 
+  utter_typhoid_1_b: 
+  - text : You have typhoid. Take 2-3mg tablets Ciprofloxacin (Cipro), Azithromycin (Zithromax) or Ceftriaxone on daily basis a little amount, do visit a doctor. 
+  utter_typhoid_advice: 
+  - text : Take  antibiotic, drinking adequate water. Take surgery if severe. 
+  utter_psoriasis_1_a: 
+  - text : You have psoriasis. Take 2-3mg dozes Anthralin, , Coal tar daily, do visit a doctor. 
+  utter_psoriasis_1_b: 
+  - text : You have psoriasis. Have Calcipotriene (a form of vitamin D) 10mg daily, do visit a doctor. 
+  utter_psoriasis_advice: 
+  - text : You can try cream, lotion, or ointments. 
+  utter_obesity_1_a: 
+  - text : You have obesity. Orlistat is most used medicine with 10-15mg dozes daily, do visit a doctor. 
+  utter_obesity_1_b: 
+  - text : You have obesity. Take Orlistat (Alli, Xenical) Phentermine and topiramate (Qsymia), Bupropion and naltrexone (Contrave), Liraglutide (Saxenda, Victoza) 1doze daily, do visit a doctor.
+  utter_obesity_advice: 
+  - text : Have medications and weight loss surgery. 
+  utter_insomnia_1_a: 
+  - text : You have insomnia. Take Antihistamines like diphenhydramine (Nytol, Sominex) of 2-3mg, 2doze daily, do visit a doctor. 
+  utter_insomnia_1_b: 
+  - text : You have insomnia. Have 3.75mg dozes daily of sleeping pills, do visit a doctor. 
+  utter_insomnia_advice: 
+  - text : Wake up at the same time, Limit naps, Eliminate alcohol. 
+  utter_psychosis_1_a: 
+  - text : You have psychosis. Take atypical mild 1-2 dozes antipsychotics, which include aripiprazole (Abilify), asenapine (Saphris), clozapine (Clozaril) 4mg daily, do visit a doctor. 
+  utter_psychosis_1_b: 
+  - text : You have psychosis. Have 2-3mg dozes Antipsychotic drugs like olanzapine and risperidone 10mg dozes daily, do visit a doctor. 
+  utter_psychosis_advice: 
+  - text : Don't panic or overreact, Do listen non-judgmentally.
+  utter_depression_1_a: 
+  - text : You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor. 
+  utter_depression_1_b: 
+  - text : You have depression. Take 1tablet of sertraline (Zoloft), fluoxetine (Prozac, Sarafem), citalopram (Celexa) 10-15mg dozes daily, do visit a doctor. 
+  utter_depression_advice: 
+  - text : Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used. 
+  utter_pneumonia_1_a: 
+  - text : You have pneumonia. Take Beta-lactam antibiotics (eg, amoxicillin, cefuroxime, cefdinir) 10-15mg daily, do visit a doctor. 
+  utter_pneumonia_1_b: 
+  - text : You have pneumonia. Take 10-12mg dozes daily Macrolides include azithromycin (Zithromax®) and clarithromycin (Biaxin®), do visit a doctor.
+  utter_pneumonia_advice: 
+  - text : You can try  amoxicillin, azithromycin, or fluoroquinolones too.

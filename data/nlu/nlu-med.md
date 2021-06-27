@@ -518,6 +518,7 @@
 - several days
 - several months
 - several weeks
+- /long_duration_0_13
 
 ## intent:problem_headache_1_4
 - hdache
@@ -946,4 +947,24 @@
 - i have cough and its green colour
 - Having stabbing chest aches while deep breathing 
 - Difficulty in deep breathing 
-- Having low energy and fatigue 
+- Having low energy and fatigue
+
+
+## intent:problem_bronchial_asthma
+- wheezing 
+- i have shortness of breath
+- i am having chest pains
+- my chest is paining
+- i am not able to breathe properly
+- i wheeze while breathing
+- i had a wheezing attack also i am having cough and cold
+- i am not able to sleep due to wheezing
+- i am having problem in breathing
+- i am not able to sleep due to shortness of breathe
+- i am wheezing more due to cough and cold
+- i am wheezing more due to flu
+
+
+
+
+
