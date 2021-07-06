@@ -1,4 +1,4 @@
-## utter_pneumonia_1_a
+## utter_pneumonia_1
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
@@ -21,7 +21,7 @@
   - action_save_conversation
   - utter_saved_details
 
-## pneumonia2
+## pneumonia_2
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2

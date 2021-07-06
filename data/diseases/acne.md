@@ -13,7 +13,7 @@
 * age_0_10
   - utter_ask_weight_0_13
 * weight_0_11
-  - utter_acne_1_a
+  - utter_acne_1_b
   - utter_acne_advice
   - utter_any_other_question_0_8
 * get_no_0_7
