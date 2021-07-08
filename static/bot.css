@@ -44,6 +44,11 @@
 #power{
 	font-size: 12px;
 }
+#chat_texts {
+  font-size: small;
+  white-space: pre-line;
+
+}
 
 
 

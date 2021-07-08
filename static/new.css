@@ -15,10 +15,10 @@ body{
     background-color: transparent !important;
 }
 
-@font-face {
+/* @font-face {
   font-family: 'CMU Serif Roman';
   src: URL('{{ url_for('static', filename = 'cmunrm.ttf') }}') format('truetype');
-}
+} */
 
 .scrollable-menu {
     height: auto;
@@ -102,5 +102,3 @@ body{
    margin: auto;
    position: inherit;
 }
-
-

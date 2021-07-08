@@ -938,15 +938,15 @@
 - i have suicidal thoughts
 - suicidal tendency
 
-## intent:problem_pneumonia 
-- I am having greenish cough  
-- Having yellow cough with bloody mucus 
-- Having fever and shaking chills 
-- I have rapid and shallow breathing 
+## intent:problem_pneumonia
+- I am having greenish cough
+- Having yellow cough with bloody mucus
+- Having fever and shaking chills
+- I have rapid and shallow breathing
 - I have fever eith green cough
 - i have cough and its green colour
-- Having stabbing chest aches while deep breathing 
-- Difficulty in deep breathing 
+- Having stabbing chest aches while deep breathing
+- Difficulty in deep breathing
 - Having low energy and fatigue
 
 

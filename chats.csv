@@ -24,3 +24,607 @@ small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range yo
 age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
 weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
 utter_any_other_question_0_8,Do you have any other issues other than this?
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i ahve redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_conjunctivitis_1_b,You have conjunctivitis. Take ciprofloxacin 2 drops thrice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_fungal_infection_1_b,You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_fungal_infection_1_b,You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_fungal_infection_1_b,You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_fungal_infection_1_b,You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_cough_or_cold_1_5,i have anget issue,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_fungal_infection_1_b,You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_cough_or_cold_1_5,i have anget issue,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_fungal_infection_1_b,You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_cough_or_cold_1_5,i have anget issue,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_fungal_infection_1_b,You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_cough_or_cold_1_5,i have anget issue,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_psychosis,i have anger issu,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_psychosis_1_a,You have psychosis. Take atypical mild 1-2 dozes antipsychotics, which include aripiprazole (Abilify), asenapine (Saphris), clozapine (Clozaril) 4mg daily, do visit a doctor.
+utter_psychosis_advice,Don't panic or overreact, Do listen non-judgmentally.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_fungal_infection_1_b,You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_cough_or_cold_1_5,i have anget issue,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_psychosis,i have anger issu,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_psychosis_1_a,You have psychosis. Take atypical mild 1-2 dozes antipsychotics, which include aripiprazole (Abilify), asenapine (Saphris), clozapine (Clozaril) 4mg daily, do visit a doctor.
+utter_psychosis_advice,Don't panic or overreact, Do listen non-judgmentally.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_fungal_infection,i have redness,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_fungal_infection_1_a,You have fungal infection. Take 5-10mg of 1% cream Terbinafine 1 or 2 times a day, or nystalin ointment once a day, do visit a doctor.
+utter_fungal_infection_advice,Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hi,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hi,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_typhoid_1_a,You have typhoid. azithromycin given for 7 days at a dosage of 10 mg/kg/day, maximum 500mg a day, do visit a doctor.
+utter_typhoid_advice,Take  antibiotic, drinking adequate water. Take surgery if severe.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_typhoid_1_b,You have typhoid. Take 2-3mg tablets Ciprofloxacin (Cipro), Azithromycin (Zithromax) or Ceftriaxone on daily basis a little amount, do visit a doctor.
+utter_typhoid_advice,Take  antibiotic, drinking adequate water. Take surgery if severe.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+nlu_fallback,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_typhoid_1_b,You have typhoid. Take 2-3mg tablets Ciprofloxacin (Cipro), Azithromycin (Zithromax) or Ceftriaxone on daily basis a little amount, do visit a doctor.
+utter_typhoid_advice,Take  antibiotic, drinking adequate water. Take surgery if severe.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+utter_saved_details,I have saved your details
+problem_conjunctivitis,i havbe redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day

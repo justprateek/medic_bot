@@ -34,7 +34,32 @@ def chatbot():
 def admin():
     if 'username' in session:
         #return 'You are logged in as  :' + session['username']
+        users = mongo.db.users
+        chats = mongo.db.chats
+        session['total'] = users.count()
+        session['total_chats'] = chats.count()
+        text = chats.find()
+        text_count=0
+        for i in text:
+            text_count+= i['count']
+        session['text_count'] = text_count
+
         return render_template('admin.html')
+    test = True
+    return render_template('login.html', test = test)
+
+
+@app.route('/history')
+def history():
+    if 'username' in session:
+        #return 'You are logged in as  :' + session['username']
+        chats = mongo.db.chats
+        text = chats.find()
+        chat=''
+        for i in text:
+            chat= i['chat']
+        session['chat'] = chat
+        return render_template('history.html')
     test = True
     return render_template('login.html', test = test)
 
@@ -53,7 +78,6 @@ def upload():
                 return render_template('upload.html', data=data)
         return render_template('upload.html', data=data)
     return render_template('login.html', data=data)
-    
 
 
 
@@ -73,7 +97,6 @@ def login():
 def login_check():
     users = mongo.db.users
     login_user = users.find_one({'name': request.form['username']})
-
     if login_user:
         if check_password_hash(login_user['password'], request.form['pass']):
             session['username'] = request.form['username']
