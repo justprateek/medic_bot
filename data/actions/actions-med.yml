@@ -29,9 +29,6 @@ actions:
 - utter_joint_pain_1_14
 - utter_diet_1_15
 - utter_insomnia_1_16
-- utter_acne_1_a
-- utter_acne_1_b
-- utter_acne_advice
 - utter_lowbloodpressure_1_a
 - utter_lowbloodpressure_1_b
 - utter_lowbloodpressure_advice
@@ -86,4 +83,12 @@ actions:
 - utter_pneumonia_1_a
 - utter_pneumonia_1_b
 - utter_pneumonia_advice
+- utter_coronavirus_advice
 - action_save_conversation
+
+# - utter_bronchial_asthma_1_a
+# - utter_bronchial_asthma_1_b
+# - utter_bronchial_asthma_advice
+# - utter_arthritis_1_a
+# - utter_arthritis_1_b
+# - utter_arthritis_advice

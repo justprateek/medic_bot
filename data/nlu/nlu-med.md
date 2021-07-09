@@ -179,7 +179,7 @@
 - Dr [Gokhale](doctor_name)
 - Dr [Verghese](doctor_name)
 - Dr [Chopra](doctor_name)
-- Dr [Thakur](dosctor_name)
+- Dr [Thakur](doctor_name)
 - Dr [Bajaj](doctor_name)
 - Dr [Nair](doctor_name)
 - Dr [Sen](doctor_name)
@@ -465,8 +465,8 @@
 - asd
 - we
 - asdas
-- yes
-- yes yes
+- abra ka dabra
+- avada kadavra
 - yes yes yes
 - yup
 - ya
@@ -578,16 +578,14 @@
 - i have cold
 - cough cold
 - cold cough
+- i feel cold
 - cold
 - cough
 - i have running nose
 - my nose is blocked
-- i have sore throat
-- my throat is paining
 - my nose is red
 - i have sore nose
 - i have dripping nose
-- sore throat
 - sore
 - i am sick
 
@@ -599,14 +597,19 @@
 - i have fevre problem
 - i have fevere problem
 - i have fever problem
+- i am sick
 
 ## intent:problem_nasal_1_5_1
 - nasal blockage
 - i have nasal blockage
+- my nose is blocked 
+- i cant breathe in night
+- i have problem in breathing while sleeping
 
 ## intent:problem_not_nasal_1_5_2
 - i do not have nasal blockage
 - i dont have nasal blockage
+- no nasal blockage
 
 ## intent:problem_fungal_1_6
 - i have fungal infection
@@ -621,17 +624,20 @@
 ## intent:problem_diarrhea_1_7_1
 - havediarrhea
 - havediarrhoea
+- i have diarrhea
+- i have loose motions too frequently
+- i have to use bathroom very often
 
 ## intent:problem_not_diarrhea_1_7_2
-- not havediarrhea
+- not have diarrhea
 - not havediarrhoea
 
 ## intent:problem_headache_1_9_1
-- haveheadache
+- have headache
 - haveheadche
 
 ## intent:problem_headache_1_9_2
-- not haveheadache
+- not have headache
 - not haveheadche
 
 ## intent:problem_stomach_1_7
@@ -893,7 +899,6 @@
 - I am having difficulties in doing physical activities
 - I always get sweated
 
-<!-- devi -->
 
 ## intent:problem_insomnia 
 - I find it difficult to fall asleep
@@ -965,6 +970,127 @@
 - i am wheezing more due to flu
 
 
+## intent:problem_arthritis
+- joint pain, tenderness and stiffness
+- inflammation in and around the joints
+- restricted movement of the joints
+- warm, red skin over the affected joint
+- weakness and muscle wasting
+- I have arthritis
+- My hands are paining and they are becoming stiff
+- My knees are paining and they are becoming stiff
+- My spine are paining and they are becoming stiff
+- My heaps are paining and they are becoming stiff
+- I am having inflammation in and around my hands
+- I am having inflammation in and around my knees
+- I am having inflammation in and around my heaps
+- I am having inflammation in and around my spine
+- I am feeling warm and have red and swollen skin over my hand
+- I am feeling warm and have red and swollen skin over my heaps
+- I am feeling warm and have red and swollen skin over my spine
+- I am feeling warm and have red  and swollenskin over my knees
+- I am having weakness and muscle wasting
+
+## intent:problem_coronavirus
+- change in sense of smell or taste
+- difficulty in breathing
+- i have corona virus
+- i may have covid
+- i was in the quarantinve center
+- my frineds have  covid-19
+- i am having very high fever
+- i am coughing continuously
+- i am having difficulty in breathing
+- i am not feeling any taste
+- i am not able to smell properly
+- i have lost sense of taste and smell
+- i am having dry cough
+- i have lost smell sensation
+- i am not able to breathe properly
+- i don't get the taste of anything
+
+## intent:problem_lowbloodpressure
+- dizziness or lightheadedness
+- i have low bp
+- my blood pressure is low
+- i have low blood pressure
+- dehydration and unusual thirst
+- lack of concentration
+- blurred vision
+- cold, clammy, pale skin
+- rapid, shallow breathing
+- fatigue
+- depression
+- i feel tired
+- i have dehydration
+- i am stressed out
+
+## intent:problem_highbloodpressure
+- high blood pressure
+- high bp
+- i feel high blood pressure
+- i am having severe headache
+- i am having chest pain
+- pounding in chest, neck or ears
+- i have blood in my urine
+- i feel tired and exhausted
+- i am sweating
+- i am feeling hot
+- i am feeling nervous
+- i am feeling dizzy
+
+## intent:problem_ringworm
+- itchy skin
+- ring-shaped rash
+- red, scaly, cracked skin
+- hair loss
+- i have ring worm
+- i have red, swollen, itchy skin between the toes
+- i have scaly, itchy, red, circular bald spot
+- i have scaly, itchy, red spots, in skin folds of the thigh.
+- i have scaly, itchy, red spots on the cheeks, chin, and upper neck
+
+
+## intent:problem_toothache
+- my tooth is paining
+- i have tooth ache
+- i have broken tooth
+- i have swelling around tooth
+- my mouth is smelling
+- i have foul tasting drainage from infected tooth
+- i have tooth pain while eating 
+- my gums are infected
+- i have abcessed tooth
+- my filling inside tooth is damaged
+
+
+## intent:problem_acne
+- i have acne
+- i have whiteheads
+- i have blackheads
+- i have pimples
+- painful, pus-filled lumps under the skin
+- large, solid, painful lumps under the skin
+- it pains when i touch my pimples
+- i have burning sensation due to pimples
+
+
+## intent:problem_migraine
+- i have migraine
+- i am sensitive to light, sound, or smell
+- i am very thirsty
+- i have mood swings
+- i feel bloated
+- i am having hallucinations
+- i have tunnel vision
+- i am having a very strong headache
+- my ears are ringing
+- i am not able to see at all
+- i am feeling tired
+- i am nauseated
+- i ahve frequent migrain attacks
+- i have strong pain in back part of head
+- i have wave sensations in my head
 
 
 

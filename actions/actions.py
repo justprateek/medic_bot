@@ -43,7 +43,7 @@ class ActionSaveConversation(Action):
                 chat_data+=i['parse_data']['intent']['name']+','+i['text']+','
                 print('user: {}'.format(i['text']))
                 chat+='user: {}'.format(i['text'])
-                chat+="<br></br>"
+                chat+="/n"
                 count+=1
                 if len(i['parse_data']['entities']) > 0:
                     chat_data+=i['parse_data']['entities'][0]['entity']+','+i['parse_data']['entities'][0]['value']+','
@@ -55,7 +55,7 @@ class ActionSaveConversation(Action):
             elif i['event'] == 'bot':
                 print('Bot: {}'.format(i['text']))
                 chat+='Bot: {}'.format(i['text'])
-                chat+="<br></br>"
+                chat+="/n"
                 count+=1
                 try:
                     chat_data+=i['metadata']['utter_action']+','+i['text']+'\n'

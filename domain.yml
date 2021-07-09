@@ -29,9 +29,6 @@ actions:
 - utter_joint_pain_1_14
 - utter_diet_1_15
 - utter_insomnia_1_16
-- utter_acne_1_a
-- utter_acne_1_b
-- utter_acne_advice
 - utter_lowbloodpressure_1_a
 - utter_lowbloodpressure_1_b
 - utter_lowbloodpressure_advice
@@ -86,6 +83,7 @@ actions:
 - utter_pneumonia_1_a
 - utter_pneumonia_1_b
 - utter_pneumonia_advice
+- utter_coronavirus_advice
 - action_save_conversation
 responses:
   utter_any_other_question_0_8:
@@ -248,12 +246,6 @@ responses:
         payload: /problem_headache_1_9_2
   utter_saved_details:
     - text: I have saved your details
-  utter_acne_1_a:
-    - text: You have acne. You should apply 2% Salicilic Acid Face Serum on the infected area after your bath, do visit a doctor.  
-  utter_acne_1_b:
-    - text: You have acne. You should apply 2% Salicilic Acid Face Serum on the infected area after your bath, do visit a doctor.  
-  utter_acne_advice:
-    - text: bath twice, avoid fatty spicy food, drink plenty of water, avoid using too many creams.
   utter_lowbloodpressure_1_a:
     - text: You have low BP. You should take 7mg dosage of  midodrine (Orvaten) for every 8 hours, it helps to narrow blood vessels to raise blood pressure, do visit a doctor.  
   utter_lowbloodpressure_1_b:
@@ -362,6 +354,20 @@ responses:
   - text : You have pneumonia. Take 10-12mg dozes daily Macrolides include azithromycin (Zithromax®) and clarithromycin (Biaxin®), do visit a doctor.
   utter_pneumonia_advice: 
   - text : You can try  amoxicillin, azithromycin, or fluoroquinolones too.
+  utter_coronavirus_advice:
+  - text: you have symptopms of covid-19. Reach out to your nearest hostpital and get checked for covid-19. Maintain distance of atleast 6ft from others.
+  utter_bronchial_asthma_1_a:
+  - text: You have bronchial asthma. Inhale Albuterol, USP Inhalation Aerosol when you are going to be around asthma triggers. Do visit a doctor.
+  utter_bronchial_asthma_1_b:
+  - text: You have bronchial asthma. Inhale Albuterol, USP Inhalation Aerosol when you are going to be around asthma triggers. Do visit a doctor.
+  utter_bronchial_asthma_advice:
+  - text: Keep fit by exercising. Be in control, get an asthma action plan. Avoid smoking. Prevent Cold.
+  utter_arthritis_1_a:
+  - text: You have arthritis.Take one pill of Rinvoq(15 mg tablet) daily . Do visit a doctor.
+  utter_arthritis_1_b:
+  - text: You have arthritis.Take one pill of Rinvoq(15 mg tablet) daily . Do visit a doctor.
+  utter_arthritis_advice:
+  - text: Manage your weight. Use hot and cold therapy. Use meditation to cope with pain. Add turmeric to dishes.
 slots:
   date:
     type: text
@@ -411,6 +417,7 @@ intents:
 - problem_headache_1_9_2
 - have_report
 - no_report
+- problem_acne
 - problem_conjunctivitis
 - problem_gerd
 - problem_diabetes
@@ -425,3 +432,9 @@ intents:
 - problem_depression
 - problem_pneumonia
 - problem_bronchial_asthma
+- problem_coronavirus
+- problem_lowbloodpressure
+- problem_highbloodpressure
+- problem_ringworm
+- problem_toothache
+

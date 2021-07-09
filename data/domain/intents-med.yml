@@ -44,6 +44,14 @@ intents:
 - problem_depression
 - problem_pneumonia
 - problem_bronchial_asthma
+- problem_coronavirus
+- problem_lowbloodpressure
+- problem_highbloodpressure
+- problem_ringworm
+- problem_toothache
+# - problem_acne
+# - problem_migraine
+# - problem_arthritis
 
 
 
