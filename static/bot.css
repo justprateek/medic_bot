@@ -47,6 +47,7 @@
 #chat_texts {
   font-size: small;
   white-space: pre-line;
+  text-align: left;
 
 }
 

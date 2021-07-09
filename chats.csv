@@ -628,3 +628,39 @@ weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Tak
 utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
 utter_any_other_question_0_8,Do you have any other issues other than this?
 get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_toothache,i have toothache,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_toothache_1_b,You have toothache. You should take one tablet of Diclofenac when you get pain, do visit a doctor.
+utter_toothache_advice,rinse your mouth with warm water. Use dental floss to remove any food particles or plaque wedged between your teeth.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_psychosis,i have anger issues,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_psychosis_1_a,You have psychosis. Take atypical mild 1-2 dozes antipsychotics, which include aripiprazole (Abilify), asenapine (Saphris), clozapine (Clozaril) 4mg daily, do visit a doctor.
+utter_psychosis_advice,Don't panic or overreact, Do listen non-judgmentally.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_depression_1_b,You have depression. Take 1tablet of sertraline (Zoloft), fluoxetine (Prozac, Sarafem), citalopram (Celexa) 10-15mg dozes daily, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
