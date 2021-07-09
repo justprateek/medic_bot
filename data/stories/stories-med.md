@@ -2,6 +2,7 @@
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
+  - action_save_conversation
 
 
 
@@ -26,7 +27,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## interactive_story_1
 * greet_0_1
@@ -51,7 +52,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_1
@@ -77,7 +78,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_1
@@ -103,7 +104,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## interactive_story_1
 * greet_0_1
@@ -128,7 +129,6 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
 
 ## interactive_story_1
 * greet_0_1
@@ -153,8 +153,6 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
-
 
 ## booking_story
 * select_booking_0_2
@@ -176,10 +174,6 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
-
-
-
 
 ## interactive_story_1
 * greet_0_1
@@ -220,8 +214,6 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
-
 
 ## interactive_story_1
 * greet_0_1
@@ -262,8 +254,6 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
-
 
 ## interactive_story_1
 * greet_0_1
@@ -288,7 +278,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_1
@@ -314,7 +304,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## interactive_story_2
 * greet_0_1
@@ -339,7 +329,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -366,7 +356,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## interactive_story_2
 * greet_0_1
@@ -391,7 +381,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_2
@@ -417,7 +407,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_2
@@ -443,7 +433,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -473,7 +463,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_1
@@ -499,7 +489,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## interactive_story_2
 * greet_0_1
@@ -524,7 +514,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_2
@@ -550,7 +540,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_1
@@ -576,7 +566,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_1
@@ -602,7 +592,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_2
@@ -628,7 +618,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_1
@@ -654,7 +644,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## interactive_story_1
@@ -680,20 +670,20 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## no
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## select_question
 * select_question_0_8
   - utter_continue_with_question_0_10
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -701,7 +691,7 @@
 * random_0_9
   - utter_cannot_understand_0_11
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -721,7 +711,7 @@
   - utter_headache_1_4_3
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -742,7 +732,7 @@
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## health_related
@@ -761,7 +751,7 @@
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## health_related
@@ -780,7 +770,7 @@
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
   
 
 
@@ -804,7 +794,7 @@
   - utter_headache_1_4_4
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## health_related
@@ -823,7 +813,7 @@
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## health_related
@@ -842,7 +832,7 @@
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## health_related
@@ -861,7 +851,7 @@
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -875,7 +865,7 @@
 * long_duration_0_13
   - utter_hospital_0_15
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -894,7 +884,7 @@
   - utter_cold_1_5_1
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 ## cold
 * problem_cough_or_cold_1_5
@@ -911,7 +901,7 @@
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## cold
@@ -929,7 +919,7 @@
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
   - action_save_conversation
-  - utter_saved_details
+
 
 ## cold
 * problem_cough_or_cold_1_5
@@ -945,6 +935,7 @@
 * weight_0_11c
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+  - action_save_conversation
 
 
 
@@ -961,7 +952,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
-
+  - action_save_conversation
 
 
 ## cough
@@ -978,7 +969,7 @@
 * weight_0_11
   - utter_cough_1_5_2
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## cough
 * problem_cough_or_cold_1_5
@@ -994,7 +985,7 @@
 * weight_0_11
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## cough
 * problem_cough_or_cold_1_5
@@ -1010,7 +1001,7 @@
 * weight_0_11c
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## cough
 * problem_cough_or_cold_1_5
@@ -1026,7 +1017,7 @@
 * weight_0_11c
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 
 ## health_related
@@ -1046,7 +1037,7 @@
 * weight_0_11
   - utter_headache_1_4_3
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 
 
@@ -1067,7 +1058,7 @@
 * weight_0_11c
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## health_related
 * problem_fever_1_8
@@ -1086,7 +1077,7 @@
 * weight_0_11c
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## health_related
 * problem_fever_1_8
@@ -1105,12 +1096,7 @@
 * weight_0_11
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
-  
-
-
-
-
-
+  - action_save_conversation
 
 ## health_related
 * problem_fever_1_8
@@ -1129,7 +1115,7 @@
 * weight_0_11
   - utter_headache_1_4_4
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## health_related
 * problem_fever_1_8
@@ -1148,7 +1134,7 @@
 * weight_0_11c
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## health_related
 * problem_fever_1_8
@@ -1167,7 +1153,7 @@
 * weight_0_11
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## health_related
 * problem_fever_1_8
@@ -1186,7 +1172,7 @@
 * weight_0_11c
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 
 ## cold
@@ -1200,7 +1186,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
-
+  - action_save_conversation
 
 
 ## cold
@@ -1219,6 +1205,8 @@
 * weight_0_11
   - utter_cold_1_5_1
   - utter_any_other_question_0_8
+  - action_save_conversation
+
 
 ## cold
 * problem_fever_1_8
@@ -1236,7 +1224,7 @@
 * weight_0_11
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## cold
 * problem_fever_1_8
@@ -1254,6 +1242,7 @@
 * weight_0_11c
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+  - action_save_conversation
 
 ## cold
 * problem_fever_1_8
@@ -1271,10 +1260,7 @@
 * weight_0_11c
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
-
-
-
-
+  - action_save_conversation
 
 
 
@@ -1289,7 +1275,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
-
+  - action_save_conversation
 
 
 ## cough
@@ -1308,7 +1294,7 @@
 * weight_0_11
   - utter_cough_1_5_2
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## cough
 * problem_fever_1_8
@@ -1326,7 +1312,7 @@
 * weight_0_11
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## cough
 * problem_fever_1_8
@@ -1344,7 +1330,7 @@
 * weight_0_11c
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## cough
 * problem_fever_1_8
@@ -1362,7 +1348,7 @@
 * weight_0_11c
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 
 ## fever
@@ -1376,13 +1362,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
-
-
-
-
-
-
-
+  - action_save_conversation
 
 
 
@@ -1394,7 +1374,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
-
+  - action_save_conversation
 
 
 ## fungal
@@ -1409,6 +1389,7 @@
 * weight_0_11
   - utter_fungal_1_6
   - utter_any_other_question_0_8
+  - action_save_conversation
 
 
 ## fungal
@@ -1423,6 +1404,7 @@
 * weight_0_11
   - utter_fungal_1_6c
   - utter_any_other_question_0_8
+  - action_save_conversation
 
 
 ## fungal
@@ -1437,7 +1419,7 @@
 * weight_0_11c
   - utter_fungal_1_6c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## fungal
 * problem_fungal_1_6
@@ -1451,9 +1433,7 @@
 * weight_0_11c
   - utter_fungal_1_6c
   - utter_any_other_question_0_8
-
-
-
+  - action_save_conversation
 
 
 ## stomach
@@ -1465,6 +1445,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
+  - action_save_conversation
 
 ## stomach
 * problem_stomach_1_7
@@ -1475,8 +1456,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
-
-
+  - action_save_conversation
 
 
 ## stomach
@@ -1493,7 +1473,7 @@
 * weight_0_11
   - utter_diarrhea_1_7
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## stomach
 * problem_stomach_1_7
@@ -1509,7 +1489,7 @@
 * weight_0_11
   - utter_diarrhea_1_7c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## stomach
 * problem_stomach_1_7
@@ -1525,7 +1505,7 @@
 * weight_0_11c
   - utter_diarrhea_1_7c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## stomach
 * problem_stomach_1_7
@@ -1541,10 +1521,7 @@
 * weight_0_11c
   - utter_diarrhea_1_7c
   - utter_any_other_question_0_8
-
-
-
-
+  - action_save_conversation
 
 
 ## stomach
@@ -1561,7 +1538,7 @@
 * weight_0_11
   - utter_loose_motion_1_8
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## stomach
 * problem_stomach_1_7
@@ -1577,6 +1554,7 @@
 * weight_0_11
   - utter_loose_motion_1_8c
   - utter_any_other_question_0_8
+  - action_save_conversation
 
 ## stomach
 * problem_stomach_1_7
@@ -1592,7 +1570,7 @@
 * weight_0_11c
   - utter_loose_motion_1_8c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 ## stomach
 * problem_stomach_1_7
@@ -1608,7 +1586,7 @@
 * weight_0_11c
   - utter_loose_motion_1_8c
   - utter_any_other_question_0_8
-
+  - action_save_conversation
 
 
 ## long_duration_fever
@@ -1623,7 +1601,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
-
+  - action_save_conversation
 
 ## long_duration_fever
 * problem_fever_1_8
@@ -1637,6 +1615,7 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
+  - action_save_conversation
 
 ## long duration
 * problem_headache_1_4
@@ -1648,617 +1627,13 @@
   - utter_ask_duration_0_14
 * long_duration_0_13
   - utter_hospital_0_15
-
+  - action_save_conversation
 
 
 ## hospital
 * problem_hospital_0_14
   - utter_hospital_0_15
-
-
-
-## conjunctivitis_1
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_conjunctivitis_1_b
-  - utter_conjunctivitis_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
-
-## conjunctivitis_2
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_conjunctivitis_1_b
-  - utter_conjunctivitis_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## conjunctivitis_3
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_conjunctivitis_1_a
-  - utter_conjunctivitis_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## conjunctivitis_4
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_conjunctivitis_1_a
-  - utter_conjunctivitis_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-
-## conjunctivitis_5
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* long_duration_0_13
-  - utter_hospital_0_15
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-## conjunctivitis_1_1
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_conjunctivitis_1_b
-  - utter_conjunctivitis_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## conjunctivitis_2_1
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_conjunctivitis_1_b
-  - utter_conjunctivitis_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## conjunctivitis_3_1
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_conjunctivitis_1_a
-  - utter_conjunctivitis_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## conjunctivitis_4_1
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_conjunctivitis_1_a
-  - utter_conjunctivitis_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-
-## conjunctivitis_5_1
-* problem_conjunctivitis
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* long_duration_0_13
-  - utter_hospital_0_15
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-<!-- k-v-n-p -->
-
-## acne_1
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_acne_1_b
-  - utter_acne_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## acne_2
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_acne_1_b
-  - utter_acne_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-## acne_3
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_acne_1_a
-  - utter_acne_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## acne_4
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_acne_1_a
-  - utter_acne_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-## acne_5
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* long_duration_0_13
-  - utter_hospital_0_15
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-## acne_1_1
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_acne_1_b
-  - utter_acne_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## acne_2_1
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_acne_1_b
-  - utter_acne_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## acne_3_1
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_acne_1_a
-  - utter_acne_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## acne_4_1
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_acne_1_a
-  - utter_acne_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-
-## acne_5_1
-* problem_acne
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* long_duration_0_13
-  - utter_hospital_0_15
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-## depression_1
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_depression_1_b
-  - utter_depression_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## depression_2
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_depression_1_b
-  - utter_depression_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## depression_3
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_depression_1_a
-  - utter_depression_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## depression_4
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_depression_1_a
-  - utter_depression_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-
-## depression_5
-* greet_0_1
-  - utter_welcome_0_1
-  - utter_ask_booking_or_question_0_2
-* select_question_0_8
-  - utter_continue_with_question_0_10
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* long_duration_0_13
-  - utter_hospital_0_15
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-## depression_1_1
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_depression_1_b
-  - utter_depression_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## depression_2_1
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_depression_1_b
-  - utter_depression_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## depression_3_1
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11
-  - utter_depression_1_a
-  - utter_depression_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-## depression_4_1
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* small_duration_0_12
-  - utter_ask_age_0_12
-* age_0_10c
-  - utter_ask_weight_0_13
-* weight_0_11c
-  - utter_depression_1_a
-  - utter_depression_advice
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
-
-
-
-## depression_5_1
-* problem_depression
-  - utter_ask_report_0_16
-* no_report
-  - utter_ask_duration_0_14
-* long_duration_0_13
-  - utter_hospital_0_15
-  - utter_any_other_question_0_8
-* get_no_0_7
-  - utter_have_a_good_day_0_9
-  - action_save_conversation
-  - utter_saved_details
 
 
 

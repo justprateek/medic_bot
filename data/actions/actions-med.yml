@@ -17,18 +17,6 @@ actions:
 - utter_headache_1_4_1
 - utter_headache_1_4_2
 - utter_headache_1_4_3
-- utter_sinus_1_5
-- utter_stomach_1_6
-- utter_vomit_1_7
-- utter_asthma_1_8
-- utter_allergy_1_9
-- utter_skin_1_10
-- utter_diabetes_1_11
-- utter_diarrhea_1_12
-- utter_hyper_tension_1_13
-- utter_joint_pain_1_14
-- utter_diet_1_15
-- utter_insomnia_1_16
 - utter_lowbloodpressure_1_a
 - utter_lowbloodpressure_1_b
 - utter_lowbloodpressure_advice
@@ -84,11 +72,23 @@ actions:
 - utter_pneumonia_1_b
 - utter_pneumonia_advice
 - utter_coronavirus_advice
+- utter_arthritis_1_a
+- utter_arthritis_1_b
+- utter_arthritis_advice
+- utter_bronchial_asthma_1_a
+- utter_bronchial_asthma_1_b
+- utter_bronchial_asthma_advice
 - action_save_conversation
 
-# - utter_bronchial_asthma_1_a
-# - utter_bronchial_asthma_1_b
-# - utter_bronchial_asthma_advice
-# - utter_arthritis_1_a
-# - utter_arthritis_1_b
-# - utter_arthritis_advice
+
+# - utter_stomach_1_6
+# - utter_vomit_1_7
+# - utter_asthma_1_8
+# - utter_allergy_1_9
+# - utter_skin_1_10
+# - utter_diabetes_1_11
+# - utter_diarrhea_1_12
+# - utter_hyper_tension_1_13
+# - utter_joint_pain_1_14
+# - utter_diet_1_15
+# - utter_insomnia_1_16

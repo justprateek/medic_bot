@@ -1,10 +1,10 @@
-## bronchial_asthma_1
+## conjunctivitis_1
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
 * select_question_0_8
   - utter_continue_with_question_0_10
-* problem_bronchial_asthma
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -13,21 +13,21 @@
 * age_0_10
   - utter_ask_weight_0_13
 * weight_0_11
-  - utter_bronchial_asthma_1_b
-  - utter_bronchial_asthma_advice
+  - utter_conjunctivitis_1_b
+  - utter_conjunctivitis_advice
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
-
-## bronchial_asthma_2
+## conjunctivitis_2
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
 * select_question_0_8
   - utter_continue_with_question_0_10
-* problem_bronchial_asthma
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -36,21 +36,21 @@
 * age_0_10
   - utter_ask_weight_0_13
 * weight_0_11c
-  - utter_bronchial_asthma_1_b
-  - utter_bronchial_asthma_advice
+  - utter_conjunctivitis_1_b
+  - utter_conjunctivitis_advice
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
-
-## bronchial_asthma_3
+## conjunctivitis_3
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
 * select_question_0_8
   - utter_continue_with_question_0_10
-* problem_bronchial_asthma
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -59,21 +59,21 @@
 * age_0_10c
   - utter_ask_weight_0_13
 * weight_0_11
-  - utter_bronchial_asthma_1_a
-  - utter_bronchial_asthma_advice
+  - utter_conjunctivitis_1_a
+  - utter_conjunctivitis_advice
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
-
-## bronchial_asthma_4
+## conjunctivitis_4
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
 * select_question_0_8
   - utter_continue_with_question_0_10
-* problem_bronchial_asthma
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -82,23 +82,23 @@
 * age_0_10c
   - utter_ask_weight_0_13
 * weight_0_11c
-  - utter_bronchial_asthma_1_a
-  - utter_bronchial_asthma_advice
+  - utter_conjunctivitis_1_a
+  - utter_conjunctivitis_advice
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 
-
-## bronchial_asthma_5
+## conjunctivitis_5
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
 * select_question_0_8
   - utter_continue_with_question_0_10
-* problem_bronchial_asthma
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -108,11 +108,11 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
-
-## bronchial_asthma_1_1
-* problem_bronchial_asthma
+## conjunctivitis_1_1
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -121,16 +121,16 @@
 * age_0_10
   - utter_ask_weight_0_13
 * weight_0_11
-  - utter_bronchial_asthma_1_b
-  - utter_bronchial_asthma_advice
+  - utter_conjunctivitis_1_b
+  - utter_conjunctivitis_advice
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
-
-## bronchial_asthma_2_1
-* problem_bronchial_asthma
+## conjunctivitis_2_1
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -139,16 +139,16 @@
 * age_0_10
   - utter_ask_weight_0_13
 * weight_0_11c
-  - utter_bronchial_asthma_1_b
-  - utter_bronchial_asthma_advice
+  - utter_conjunctivitis_1_b
+  - utter_conjunctivitis_advice
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
-
-## bronchial_asthma_3_1
-* problem_bronchial_asthma
+## conjunctivitis_3_1
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -157,16 +157,16 @@
 * age_0_10c
   - utter_ask_weight_0_13
 * weight_0_11
-  - utter_bronchial_asthma_1_a
-  - utter_bronchial_asthma_advice
+  - utter_conjunctivitis_1_a
+  - utter_conjunctivitis_advice
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
-
-## bronchial_asthma_4_1
-* problem_bronchial_asthma
+## conjunctivitis_4_1
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -175,18 +175,18 @@
 * age_0_10c
   - utter_ask_weight_0_13
 * weight_0_11c
-  - utter_bronchial_asthma_1_a
-  - utter_bronchial_asthma_advice
+  - utter_conjunctivitis_1_a
+  - utter_conjunctivitis_advice
   - utter_any_other_question_0_8
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details
 
 
 
-
-## bronchial_asthma_5_1
-* problem_bronchial_asthma
+## conjunctivitis_5_1
+* problem_conjunctivitis
   - utter_ask_report_0_16
 * no_report
   - utter_ask_duration_0_14
@@ -196,3 +196,4 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
+  - utter_saved_details

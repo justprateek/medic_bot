@@ -10,7 +10,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## coronavirus_2
 * greet_0_1
@@ -24,5 +24,5 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 

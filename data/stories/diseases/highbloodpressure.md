@@ -19,7 +19,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## highbloodpressure_2
 * greet_0_1
@@ -42,7 +42,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## highbloodpressure_3
 * greet_0_1
@@ -65,7 +65,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## highbloodpressure_4
 * greet_0_1
@@ -88,7 +88,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -108,7 +108,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 ## highbloodpressure_1_1
@@ -127,7 +127,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## highbloodpressure_2_1
 * problem_highbloodpressure
@@ -145,7 +145,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## highbloodpressure_3_1
 * problem_highbloodpressure
@@ -163,7 +163,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 ## highbloodpressure_4_1
 * problem_highbloodpressure
@@ -181,7 +181,7 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details
+
 
 
 
@@ -196,4 +196,3 @@
 * get_no_0_7
   - utter_have_a_good_day_0_9
   - action_save_conversation
-  - utter_saved_details

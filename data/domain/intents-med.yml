@@ -49,9 +49,8 @@ intents:
 - problem_highbloodpressure
 - problem_ringworm
 - problem_toothache
-# - problem_acne
-# - problem_migraine
-# - problem_arthritis
+- problem_migraine
+- problem_arthritis
 
 
 

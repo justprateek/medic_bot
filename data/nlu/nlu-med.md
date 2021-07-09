@@ -107,7 +107,6 @@
 - [internist](speciality)
 - [laryngologist](speciality)
 - [midwife](speciality)
-- [ ologist](speciality)
 - [neonatologist](speciality)
 - [nephrologist](speciality)
 - [neuroanatomist](speciality)
@@ -168,7 +167,7 @@
 - Thanks would select Gupta
 - Thanks would select Dr  [Gupta](doctor_name)
 - would select Dr [Gupta](doctor_name)
-- would choose Dr[Gupta](doctor_name)
+- would choose Dr [Gupta](doctor_name)
 - want Dr [Gupta](doctor_name)
 - Dr [Khan](doctor_name)
 - Dr [Dalal](doctor_name)
@@ -715,7 +714,6 @@
 
 
 <!-- Deepjoy -->
-
 ## intent:problem_conjunctivitis
 - red eyes
 - redness in eye
@@ -732,6 +730,11 @@
 - conjuctivitis in eyes
 - my eyes are scratching
 - my eyes are red and its scratching
+- i think i have conjunctivitis  
+- feeling painful due to conjuctivitis
+- how to cure my conjuctivitis
+- i have been recently suffering with conjuctivitis  
+- i am suffering from conjuctivitis
 
 ## intent:problem_gerd
 - heartburn
@@ -752,6 +755,14 @@
 - i am having burning sensation in chest
 - i feel something in throat
 - painful swallowing
+- i am suffering from gerd
+- how to cure my gerd
+- feeling problematic due to gerd
+- lately going through gerd
+- i think i have gerd
+- i have been recently suffering with gerd
+
+
 
 ## intent:problem_diabetes
 - i am facing urinating tendency
@@ -773,6 +784,12 @@
 - exhausted
 - i feel tired
 - i get exhausted in little amount of work
+- i think i have diabetes
+- going through diabetes
+- what to do in diabetes
+- painful diabetes
+- i am suffering from diabetes
+- i have been recently suffering with diabetes
 
 ## intent:problem_allergy_rhinitis
 - i am sneezing too much
@@ -808,6 +825,12 @@
 - i have itchy nose
 - my nose tickles
 - i have tickling nose
+- i think i have allergy rhinitis
+- i am having allergy rhinitis 
+- i am feeling troublesome due to allergy rhinitis
+- i am suffering from allergy rhinitis
+- i have been recently suffering with allergy rhinitis
+
 
 ## intent:problem_fungal_infection
 - irritation in skin
@@ -835,6 +858,11 @@
 - i am having blisters
 - i have blisters
 - the colour of my skin is becoming red
+- i think i have fungal infection
+- i am suffering from fungal infection
+- i have been recently suffering with fungal infection
+- feel like fungal infection 
+- i got fungal infection
 
 <!-- harsha -->
 
@@ -855,6 +883,11 @@
 - I always feel malaise
 - lethargy
 - I always feel lethargy
+- i think i have chickenpox
+- i am suffering from chickenpox
+- severe chickenpox suffering  
+- been through chickenpox lately
+- i have been recently suffering with chickenpox
 
 ## intent:problem_typhoid
 - I always feel vomiting
@@ -869,6 +902,11 @@
 - I am having fever and vomiting 
 - My body is having chills
 - I am having chills
+- i think i have typhoid
+- going through typhoid
+- i have troubles due to typhoid
+- i am suffering from typhoid
+- i have been recently suffering with typhoid
 
 
 ## intent:problem_psoriasis
@@ -884,6 +922,11 @@
 - I am having inflammatory nails
 - inflammatory nails
 - my nails are inflammatory
+- i think i have psoriasis
+- i am suffering from psoriasis
+- what to do is psoriasis
+- i got problem of psoriasis
+- i have been recently suffering with psoriasis
 
 ## intent:problem_obesity
 - I am gaining more fat day by day
@@ -898,6 +941,11 @@
 - I mostly feel breathlessness
 - I am having difficulties in doing physical activities
 - I always get sweated
+- i think i have obesity
+- going through obesity
+- what to do in obesity sufferings
+- i am suffering from obesity
+- i have been recently suffering with obesity
 
 
 ## intent:problem_insomnia 
@@ -911,6 +959,11 @@
 - Restless nights 
 - Cant sleep at nights 
 - Feels night are very long 
+- i think i have insomnia
+- how to cure my insomnia
+- i am suffering from insomnia
+- feeling very painful due to insomnia
+- i have been recently suffering with insomnia
 
 ## intent:problem_psychosis
 - I am having hallucinations
@@ -926,6 +979,11 @@
 - I had parkinsons disease
 - I had a brain tumour
 - Brain hurts
+- i think i have psychosis   
+- how to cure if i am suffering with psychosis
+- i got problem of psychosis
+- i am suffering from psychosis
+- i have been recently suffering with psychosis
 
 ## intent:problem_depression
 - I have low mood all the time
@@ -942,6 +1000,11 @@
 - Have Negative thoughts a lot
 - i have suicidal thoughts
 - suicidal tendency
+- i think i have depression
+- i am suffering from depression
+- a lot of depression   
+- problematic depression every now and then   
+- i have been recently suffering with depression
 
 ## intent:problem_pneumonia
 - I am having greenish cough
@@ -953,6 +1016,12 @@
 - Having stabbing chest aches while deep breathing
 - Difficulty in deep breathing
 - Having low energy and fatigue
+- i think i have pneumonia
+- how to cure my pneumonia
+- suffering from pneumonia
+- i am suffering from pneumonia
+- i have been recently suffering with pneumonia
+
 
 
 ## intent:problem_bronchial_asthma
@@ -968,7 +1037,10 @@
 - i am not able to sleep due to shortness of breathe
 - i am wheezing more due to cough and cold
 - i am wheezing more due to flu
-
+- i think i have bronchial asthma
+- problematic bronchial asthma suffering 
+- i am suffering from bronchial asthma
+- i have been recently suffering with bronchial asthma
 
 ## intent:problem_arthritis
 - joint pain, tenderness and stiffness
@@ -990,6 +1062,11 @@
 - I am feeling warm and have red and swollen skin over my spine
 - I am feeling warm and have red  and swollenskin over my knees
 - I am having weakness and muscle wasting
+- i think i have arthritis
+- going through arthritis
+- troublesome pain of arthritis 
+- i am suffering from arthritis
+- i have been recently suffering with arthritis
 
 ## intent:problem_coronavirus
 - change in sense of smell or taste
@@ -1008,6 +1085,11 @@
 - i have lost smell sensation
 - i am not able to breathe properly
 - i don't get the taste of anything
+- i think i have corona virus
+- i am suffering from corona virus
+- i have been recently suffering with corona virus
+- having symptoms of corona virus
+- corona virus feeling dizzy hungry and tasteless   
 
 ## intent:problem_lowbloodpressure
 - dizziness or lightheadedness
@@ -1024,6 +1106,11 @@
 - i feel tired
 - i have dehydration
 - i am stressed out
+- i think i have low blood pressure
+- low blood pressure pain    
+- troublesome low blood pressure   
+- i am suffering from low blood pressure
+- i have been recently suffering with low blood pressure
 
 ## intent:problem_highbloodpressure
 - high blood pressure
@@ -1038,6 +1125,10 @@
 - i am feeling hot
 - i am feeling nervous
 - i am feeling dizzy
+- i think i have high blood pressure
+- i am suffering from high blood pressure
+- i have been recently suffering with high blood pressure
+- i have high blood pressure  
 
 ## intent:problem_ringworm
 - itchy skin
@@ -1049,6 +1140,11 @@
 - i have scaly, itchy, red, circular bald spot
 - i have scaly, itchy, red spots, in skin folds of the thigh.
 - i have scaly, itchy, red spots on the cheeks, chin, and upper neck
+- i think i have ringworm
+- i got severe ringworm problem   
+- i am suffering from ringworm
+- i have been recently suffering with ringworm
+
 
 
 ## intent:problem_toothache
@@ -1062,7 +1158,13 @@
 - my gums are infected
 - i have abcessed tooth
 - my filling inside tooth is damaged
-
+- i think i have toothache
+- i am suffering from toothache
+- i feel severe toothache 
+- i have been recently suffering with toothache
+- i am going through toothache problem   
+- i been suffering from toothache lately  
+- tooth aching a lot   
 
 ## intent:problem_acne
 - i have acne
@@ -1073,6 +1175,13 @@
 - large, solid, painful lumps under the skin
 - it pains when i touch my pimples
 - i have burning sensation due to pimples
+- i think i have acne 
+- i have been recently suffering with acne
+- i have problem of acne   
+- i am suffering from acne
+- my problme is acne  
+- pain due to acne   
+- problematic acnes   
 
 
 ## intent:problem_migraine
@@ -1091,6 +1200,10 @@
 - i ahve frequent migrain attacks
 - i have strong pain in back part of head
 - i have wave sensations in my head
+- i got migraine
+- i have been suffering from migraine
+- i have been lately suffering with migraine
+- troublesome migraine   
 
 
 
