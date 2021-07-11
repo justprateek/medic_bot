@@ -2,7 +2,6 @@
 * greet_0_1
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
-  - action_save_conversation
 
 
 
@@ -676,13 +675,11 @@
 ## no
 * get_no_0_7
   - utter_have_a_good_day_0_9
-  - action_save_conversation
 
 
 ## select_question
 * select_question_0_8
   - utter_continue_with_question_0_10
-  - action_save_conversation
 
 
 
@@ -690,7 +687,6 @@
 ## random
 * random_0_9
   - utter_cannot_understand_0_11
-  - action_save_conversation
 
 
 
@@ -710,6 +706,8 @@
 * weight_0_11
   - utter_headache_1_4_3
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -731,6 +729,8 @@
 * weight_0_11c
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -750,6 +750,8 @@
 * weight_0_11c
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -769,6 +771,8 @@
 * weight_0_11
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
   
@@ -793,6 +797,8 @@
 * weight_0_11
   - utter_headache_1_4_4
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -812,6 +818,8 @@
 * weight_0_11c
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -831,6 +839,8 @@
 * weight_0_11
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -850,6 +860,8 @@
 * weight_0_11c
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -883,6 +895,8 @@
 * weight_0_11
   - utter_cold_1_5_1
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -900,6 +914,8 @@
 * weight_0_11
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -918,6 +934,8 @@
 * weight_0_11c
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -935,6 +953,8 @@
 * weight_0_11c
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -969,6 +989,8 @@
 * weight_0_11
   - utter_cough_1_5_2
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## cough
@@ -985,6 +1007,8 @@
 * weight_0_11
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## cough
@@ -1001,6 +1025,8 @@
 * weight_0_11c
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## cough
@@ -1017,6 +1043,8 @@
 * weight_0_11c
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1037,6 +1065,8 @@
 * weight_0_11
   - utter_headache_1_4_3
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1058,6 +1088,8 @@
 * weight_0_11c
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## health_related
@@ -1077,6 +1109,8 @@
 * weight_0_11c
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## health_related
@@ -1096,6 +1130,8 @@
 * weight_0_11
   - utter_headache_1_4_3c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## health_related
@@ -1115,6 +1151,8 @@
 * weight_0_11
   - utter_headache_1_4_4
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## health_related
@@ -1134,6 +1172,8 @@
 * weight_0_11c
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## health_related
@@ -1153,6 +1193,8 @@
 * weight_0_11
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## health_related
@@ -1172,6 +1214,8 @@
 * weight_0_11c
   - utter_headache_1_4_4c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1205,6 +1249,8 @@
 * weight_0_11
   - utter_cold_1_5_1
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1224,6 +1270,8 @@
 * weight_0_11
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## cold
@@ -1242,6 +1290,8 @@
 * weight_0_11c
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## cold
@@ -1260,6 +1310,8 @@
 * weight_0_11c
   - utter_cold_1_5_1c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1294,6 +1346,8 @@
 * weight_0_11
   - utter_cough_1_5_2
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## cough
@@ -1312,6 +1366,8 @@
 * weight_0_11
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## cough
@@ -1330,6 +1386,8 @@
 * weight_0_11c
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## cough
@@ -1348,6 +1406,8 @@
 * weight_0_11c
   - utter_cough_1_5_2c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1389,6 +1449,8 @@
 * weight_0_11
   - utter_fungal_1_6
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1404,6 +1466,8 @@
 * weight_0_11
   - utter_fungal_1_6c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1419,6 +1483,8 @@
 * weight_0_11c
   - utter_fungal_1_6c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## fungal
@@ -1433,6 +1499,8 @@
 * weight_0_11c
   - utter_fungal_1_6c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1473,6 +1541,8 @@
 * weight_0_11
   - utter_diarrhea_1_7
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 ## stomach
@@ -1489,8 +1559,9 @@
 * weight_0_11
   - utter_diarrhea_1_7c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
-
 ## stomach
 * problem_stomach_1_7
    - utter_ask_report_0_16
@@ -1505,8 +1576,9 @@
 * weight_0_11c
   - utter_diarrhea_1_7c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
-
 ## stomach
 * problem_stomach_1_7
    - utter_ask_report_0_16
@@ -1521,8 +1593,9 @@
 * weight_0_11c
   - utter_diarrhea_1_7c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
-
 
 ## stomach
 * problem_stomach_1_7
@@ -1538,8 +1611,9 @@
 * weight_0_11
   - utter_loose_motion_1_8
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
-
 ## stomach
 * problem_stomach_1_7
    - utter_ask_report_0_16
@@ -1554,8 +1628,9 @@
 * weight_0_11
   - utter_loose_motion_1_8c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
-
 ## stomach
 * problem_stomach_1_7
    - utter_ask_report_0_16
@@ -1570,8 +1645,9 @@
 * weight_0_11c
   - utter_loose_motion_1_8c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
-
 ## stomach
 * problem_stomach_1_7
    - utter_ask_report_0_16
@@ -1586,6 +1662,8 @@
 * weight_0_11c
   - utter_loose_motion_1_8c
   - utter_any_other_question_0_8
+* get_no_0_7
+  - utter_have_a_good_day_0_9
   - action_save_conversation
 
 
@@ -1633,7 +1711,6 @@
 ## hospital
 * problem_hospital_0_14
   - utter_hospital_0_15
-  - action_save_conversation
 
 
 

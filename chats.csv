@@ -672,3 +672,67 @@ weight_0_11,/weight_0_11,,,utter_depression_1_a,You have depression. Take 15-20m
 utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
 utter_any_other_question_0_8,Do you have any other issues other than this?
 get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+greet_0_1,hii,,,utter_welcome_0_1,Hi and Welcome! Medical AI Assistant is ready to help you here.
+utter_ask_booking_or_question_0_2,Do you need an appointment or you have any question for me?
+problem_conjunctivitis,i have redness in my eyes,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_conjunctivitis_1_a,You have conjunctivitis. Take gatifloxacin (Zymaxid) 2 drops twice a day, do visit a doctor.
+utter_conjunctivitis_advice,Avoiding contact with infected people, disinfection of household surfaces, and good hygienic practices.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+problem_cough_or_cold_1_5,i have cough and cold,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+problem_cough_or_cold_1_5,i have cough and cold,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_nasal_1_5_1,Do you have nasal blockage?
+problem_nasal_1_5_1,/problem_nasal_1_5_1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10,/age_0_10,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_cold_1_5_1c,You have a cold. You should take a 5mg dosage of Cetrizine after your dinner, if the problem persists, do visit a doctor.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+problem_headache_1_4,i have headache,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_headache_1_4_1,
+utter_headache_1_4_2,Where do you have head pain.
+get_time_0_6,1,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_headache_1_4_4c,Since, you have headache due to tension, relax a bit, you may take a dose of 500mg dosage of paracetamol after taking your food. Do consider visiting the doctor if the problem persists.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+problem_bronchial_asthma,i have asthma,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11,/weight_0_11,,,utter_bronchial_asthma_1_a,You have bronchial asthma. Inhale Albuterol, USP Inhalation Aerosol when you are going to be around asthma triggers. Do visit a doctor.
+utter_bronchial_asthma_advice,Keep fit by exercising. Be in control, get an asthma action plan. Avoid smoking. Prevent Cold.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+problem_arthritis,i have pain in knees,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+get_no_0_7,no report,,,utter_have_a_good_day_0_9,Have a good day
+problem_arthritis,i have pain in knees,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+get_no_0_7,no report,,,utter_have_a_good_day_0_9,Have a good day
+problem_arthritis,i have pain in knees,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,/no_report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_arthritis_1_a,You have arthritis.Take one pill of Rinvoq(15 mg tablet) daily . Do visit a doctor.
+utter_arthritis_advice,Manage your weight. Use hot and cold therapy. Use meditation to cope with pain. Add turmeric to dishes.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day
+problem_depression,i have depression,,,utter_ask_report_0_16,Do you have any reports or images to upload?
+no_report,no report,,,utter_ask_duration_0_14,Duration of your prevailing symptoms
+small_duration_0_12,/small_duration_0_12,,,utter_ask_age_0_12,Which age range you fall into?
+age_0_10c,/age_0_10c,,,utter_ask_weight_0_13,Your weight range
+weight_0_11c,/weight_0_11c,,,utter_depression_1_a,You have depression. Take 15-20mg of fluoxetine (Prozac™) is most effective, with 5mg dozes daily basis, do visit a doctor.
+utter_depression_advice,Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used.
+utter_any_other_question_0_8,Do you have any other issues other than this?
+get_no_0_7,no,,,utter_have_a_good_day_0_9,Have a good day

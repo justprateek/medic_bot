@@ -662,26 +662,41 @@
 ## intent:age_0_10
 - Above 21
 - abv 21
+- 21+
 
 ## intent:age_0_10c
 - Below 21
 - blw 21
+- below 21
+- 21-
+
 
 ## intent:weight_0_11
 - Above 60kgs
 - abv 60kgs
+- above 60
+- above 55 kg
+
 
 ## intent:weight_0_11c
 - Below 60kgs
 - blw 60kgs
+- below 60kgs
+- below 60
 
 ## intent:have_report
 - havereport
 - haverep
+- i have report
+- have report
 
 ## intent:no_report
 - noreport
 - norep
+- no report
+- i dont have report
+- no report
+- lost report
 
 ## intent:problem_hospital_0_14
 - chst pain
@@ -711,6 +726,7 @@
 - loss of appetite
 - fracture
 - accident
+- i need to go to hospital
 
 
 <!-- Deepjoy -->
