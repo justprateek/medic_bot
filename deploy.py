@@ -30,13 +30,13 @@ def chatbot():
     test = True
     return render_template('login.html', test = test)
 
-@app.route('/admin')
-def admin():
+@app.route('/analytics')
+def analytics():
     if 'username' in session:
         #return 'You are logged in as  :' + session['username']
         users = mongo.db.users
         chats = mongo.db.chats
-        session['total'] = users.count()
+        session['total_users'] = users.count()
         session['total_chats'] = chats.count()
         text = chats.find()
         text_count=0
@@ -44,6 +44,36 @@ def admin():
             text_count+= i['count']
         session['text_count'] = text_count
 
+        return render_template('analytics.html')
+    test = True
+    return render_template('login.html', test = test)
+
+
+@app.route('/admin')
+def admin():
+    if 'username' in session:
+        #return 'You are logged in as  :' + session['username']
+        users = mongo.db.users
+        chats = mongo.db.chats
+        users_list=[]
+        chat_list = []
+        # session['total'] = users.count()
+        # session['total_chats'] = chats.count()
+        text = users.find()
+        
+        text_count=0
+        for i in text:
+            users_list.append(i['name'])
+            # text_count+= i['count']
+        session['users_list'] = users_list
+
+        chat_data = chats.find()
+        for i in chat_data:
+            chat_list.append(i['chat'])
+        # print(chat_list)
+        session['chat_list']= chat_list
+
+        # print(session['users_list'])
         return render_template('admin.html')
     test = True
     return render_template('login.html', test = test)

@@ -48,6 +48,17 @@
   white-space: pre-line;
   text-align: left;
 }
+#users_list li {
+  text-align: left;
+  border: 1px solid;
+}
+#chat_list p {
+  border: 1px solid;
+  font-size: small;
+  white-space: pre-line;
+  text-align: left;
+  padding: 10px;
+}
 
 
 

@@ -1,30 +1,68 @@
 {% extends 'layout.html' %}
 
 {% block body %}
-
-
 <center>
 	<img id="logo" src="{{ url_for('static', filename = 'imgs/logo.png')}}">
 	<br><br>
-	<div id="about" class="blue_div">
+	<!-- <div id="about" class="blue_div">
 		Chatbot Analytics
-	</div> 
-
+	</div>  -->
     <div>
-		<h2>Number of Users :{{ session['total'] }}</h2>
-        <h2>Total Number of chats :{{ session['total_chats'] }}</h2>
-		<h2>Number of texts :{{ session['text_count'] }}</h2>
+		<h2>Users</h2>
+        
+        <ol id = "users_list"></ol>
+        <h2>Chats</h2>
+        <ol id="chat_list">
+
+        </ol>
     </div>
-
 </center>
-
-
-
-
 <div id="webchat"/>
 <script src="{{ url_for('static', filename = 'webchat-latest.js')}}">
 // Or you can replace latest with a specific version
 </script>
+<!-- <script>
+    var list = session[users_list];
+
+function createLi(name) {
+    var li = document.createElement("LI");
+    
+    
+        li.innerText = name;
+    
+    return li;
+}
+
+    var len = list.length,
+    target = document.getElementById("users_list");
+
+for (i = 0; i < len; i++) {
+    target.appendChild(createLi(list[i]));
+}
+</script> -->
+<script>
+    const text =  {{ session['users_list']|tojson }};
+    console.log(text)
+    const size = text.length
+    let name=""
+    for (let i = 0; i < size; i++) {
+      name += "<li>"+ text[i];
+    }
+    
+    document.getElementById("users_list").innerHTML = name;
+    </script>
+
+<script>
+    const chat_list =  {{ session['chat_list']|tojson }};
+    console.log(chat_list)
+    
+    let chats=""
+    for (let i = 0; i < chat_list.length; i++) {
+      chats += "<p>"+ chat_list[i];
+    }
+    
+    document.getElementById("chat_list").innerHTML = chats;
+    </script>
 
 {% endblock %}
 
