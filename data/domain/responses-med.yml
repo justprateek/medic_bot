@@ -200,7 +200,7 @@ responses:
   utter_gerd_1_b:
   - text : You have gerd. Take famotidine (Pepcid) and nizatidine 10mg tablets twice a day, do visit a doctor. 
   utter_gerd_advice:
-  - text : If not taken care by medications, go for surger like LINX or TIF.
+  - text : If not taken care by medications, consult for surgery like LINX or TIF.
   utter_diabetes_1_a:
   - text : You have diabetes. Take 5-6 mg dozes of metformin (Glumetza, others), liraglutide (Victoza) and insulin daily basis, do visit a doctor.
   utter_diabetes_1_b: 
@@ -216,7 +216,7 @@ responses:
   utter_fungal_infection_1_a: 
   - text : You have fungal infection. Take 5-10mg of 1% cream Terbinafine 1 or 2 times a day, or nystalin ointment once a day, do visit a doctor. 
   utter_fungal_infection_1_b: 
-  - text :  You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
+  - text : You have fungal infection. Have 1-2 dozes of any of clotrimazole, econazole, ketoconazole, do visit a doctor.
   utter_fungal_infection_advice: 
   - text : Keep the affected area clean and dry. wearing loose-fitting clothing or shoes that allow your skin to breathe
   utter_chickenpox_1_a: 
@@ -230,19 +230,19 @@ responses:
   utter_typhoid_1_b: 
   - text : You have typhoid. Take 2-3mg tablets Ciprofloxacin (Cipro), Azithromycin (Zithromax) or Ceftriaxone on daily basis a little amount, do visit a doctor. 
   utter_typhoid_advice: 
-  - text : Take  antibiotic, drinking adequate water. Take surgery if severe. 
+  - text : Take antibiotic, drinking adequate water. Consult a doctor
   utter_psoriasis_1_a: 
   - text : You have psoriasis. Take 2-3mg dozes Anthralin, , Coal tar daily, do visit a doctor. 
   utter_psoriasis_1_b: 
   - text : You have psoriasis. Have Calcipotriene (a form of vitamin D) 10mg daily, do visit a doctor. 
   utter_psoriasis_advice: 
-  - text : You can try cream, lotion, or ointments. 
+  - text : You can apply cream, lotion, or ointments. use cream with clobetasol
   utter_obesity_1_a: 
   - text : You have obesity. Orlistat is most used medicine with 10-15mg dozes daily, do visit a doctor. 
   utter_obesity_1_b: 
   - text : You have obesity. Take Orlistat (Alli, Xenical) Phentermine and topiramate (Qsymia), Bupropion and naltrexone (Contrave), Liraglutide (Saxenda, Victoza) 1doze daily, do visit a doctor.
   utter_obesity_advice: 
-  - text : Have medications and weight loss surgery. 
+  - text : Do exercise and yoga. Have medications and consult for weight loss surgery. 
   utter_insomnia_1_a: 
   - text : You have insomnia. Take Antihistamines like diphenhydramine (Nytol, Sominex) of 2-3mg, 2doze daily, do visit a doctor. 
   utter_insomnia_1_b: 
@@ -260,7 +260,7 @@ responses:
   utter_depression_1_b: 
   - text : You have depression. Take 1tablet of sertraline (Zoloft), fluoxetine (Prozac, Sarafem), citalopram (Celexa) 10-15mg dozes daily, do visit a doctor. 
   utter_depression_advice: 
-  - text : Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy used. 
+  - text : Blend of cognitive behavioral therapy, interpersonal therapy, and psychodynamic therapy can be used. 
   utter_pneumonia_1_a: 
   - text : You have pneumonia. Take Beta-lactam antibiotics (eg, amoxicillin, cefuroxime, cefdinir) 10-15mg daily, do visit a doctor. 
   utter_pneumonia_1_b: 
@@ -281,3 +281,54 @@ responses:
   - text: You have arthritis.Take one pill of Rinvoq(15 mg tablet) daily . Do visit a doctor.
   utter_arthritis_advice:
   - text: Manage your weight. Use hot and cold therapy. Use meditation to cope with pain. Add turmeric to dishes.
+  utter_period_cramps_1_a:
+  - text: Take ibuprofen tablet at regular doses starting the day before you expect your period to begin
+  utter_period_cramps_1_b:
+  - text: Take ibuprofen tablet at regular doses starting the day before you expect your period to begin
+  utter_period_cramps_advice:
+  - text: Keep a warm heating pad on belly. Do yoga for period cramps
+  utter_anaemia_1_a:
+  - text: You have anaemia, Please take Lupinfer 50mg twice daily after food and take dexorange syrup twice daily
+  utter_anaemia_1_b:
+  - text: You have anaemia, Please take Lupinfer 100mg twice daily after food and take dexorange syrup twice daily
+  utter_anaemia_advice:
+  - text: Eat healthy food, check haemoglobin level in every six month
+  utter_weakness_1_a:
+  - text: Take a multi-vitamin syrup once a day, check your haemoglobin level, if necessary visit a doctor
+  utter_weakness_1_b:
+  - text: Take a multi-vitamin capsule twice a day, check your haemoglobin level, if necessary visit a doctor
+  utter_weakness_advice:
+  - text: Have a balanced diet, do yoga in the morning, get proper sleep
+  utter_eye_problem_1_a:
+  - text: Lower your screen time and immediatly get your eyes tested 
+  utter_eye_problem_1_b:
+  - text: Lower your screen time and immediatly get your eyes tested, use itone eye drop twice a day
+  utter_eye_problem_advice:
+  - text: Do not spend much screen time, wash eyes frequently with clean water, do some yoga for eyes 
+  utter_ear_pain_1_a:
+  - text: Do not use earphones for longer time, if it's bleeding go to a doctor
+  utter_ear_pain_1_b:
+  - text: Do not use earphones for longer time, you may use otovin ear drop. If pains a lot, take one aspirin tablet, if it's bleeding go to a doctor
+  utter_ear_pain_advice:
+  - text: Use less earphone, use a warm, moist compress on the ear.
+  utter_night_blindness_1_a:
+  - text: You have symptoms of night Blindness. Take aquasol A once a day for one month
+  utter_night_blindness_1_b:
+  - text: You have symptoms of night Blindness. Take aquasol A twice daily for one month
+  utter_night_blindness_advice:
+  - text: Eat vitamin A-rich foods including dark green leafy vegetables, carrots, potatoes, dairy products, broccoli, squash, and fish
+  utter_mild_heart_disease_1_a:
+  - text: Take one aspirin tablet quickly and go to the nearest hospital
+  utter_mild_heart_disease_1_b:
+  - text: Take one aspirin tablet quickly and go to the nearest hospital as soon as possible
+  utter_mild_heart_disease_advice:
+  - text: You have heart disease, Stop smoking, control blood pressure, control cholesterol levels, check for diabetes, eat a heart-healthy diet, control your stress level.
+  utter_vit_d_deficiency_1_a:
+  - text: you have vitaminD deficeincy. You should take vitamin D tablet once a week
+  utter_vit_d_deficiency_1_b:
+  - text: you have vitaminD deficeincy. You should take vitamin D tablet once a week
+  utter_vit_d_deficiency_advice:
+  - text: Please get sunlight for at least half an hour day to get proper vitamin D
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?
+  

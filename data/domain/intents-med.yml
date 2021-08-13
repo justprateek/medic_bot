@@ -51,6 +51,14 @@ intents:
 - problem_toothache
 - problem_migraine
 - problem_arthritis
+- problem_period_cramps
+- problem_vit_d_deficiency
+- problem_anaemia
+- problem_weakness
+- problem_eye_problem
+- problem_ear_pain
+- problem_night_blindness
+- problem_mild_heart_disease
 
 
 

@@ -78,6 +78,31 @@ actions:
 - utter_bronchial_asthma_1_a
 - utter_bronchial_asthma_1_b
 - utter_bronchial_asthma_advice
+- utter_period_cramps_1_a
+- utter_period_cramps_1_b
+- utter_period_cramps_advice
+- utter_vit_d_deficiency_1_a
+- utter_vit_d_deficiency_1_b
+- utter_vit_d_deficiency_advice
+- utter_anaemia_1_a
+- utter_anaemia_1_b
+- utter_anaemia_advice
+- utter_weakness_1_a
+- utter_weakness_1_b
+- utter_weakness_advice
+- utter_eye_problem_1_a
+- utter_eye_problem_1_b
+- utter_eye_problem_advice
+- utter_ear_pain_1_a
+- utter_ear_pain_1_b
+- utter_ear_pain_advice
+- utter_night_blindness_1_a
+- utter_night_blindness_1_b
+- utter_night_blindness_advice
+- utter_mild_heart_disease_1_a
+- utter_mild_heart_disease_1_b
+- utter_mild_heart_disease_advice
+- utter_please_rephrase
 - action_save_conversation
 
 

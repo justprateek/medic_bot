@@ -3,7 +3,9 @@
   - utter_welcome_0_1
   - utter_ask_booking_or_question_0_2
 
-
+## utter_please_rephrase
+* nlu_fallback
+  - utter_please_rephrase
 
 ## appointment_only
 * greet_0_1

@@ -404,16 +404,21 @@
 - thnx
 - thanx
 
+
+
 ## intent:select_question_0_8
 - I have a question.
 - question.
-- I want to ask a question.
+- yes
+- yes i have a question
+- yes i want to ask a question
+- I want to ask a question
 - Yes, I have a question
 - I need your help
 - help
 - need to ask question
 - a question
-- want to consult with   please help me urgently
+- want to consult with please help me urgently
 - question
 - want to ask
 - ask
@@ -442,31 +447,40 @@
 - sjdjajsdl
 - asjdaljhsdj
 - asdfja;lsdf
-- how
-- why what
-- what
-- who
+- i am batman
+- i am iron man
+- i love you
+- i am a god
+- i dont like you
+- you are idiot
+- aur kya haal hai
+- tum to bade heavy chatbot ho
+- o bete 
+- chha gaye guru
+- you killed my father prepare to die
+- luke i am your father
+- my name is inigo montayo you killed my father
+- give me your money
+- i am inevitable
+- i will destroy this planet
+- i have lot of moeny
+- i like trains
+- bullet train
+- we are venom
+- modi ji
+- vote for modi
 - asdhasd
 - cadfjah
 - asdad
-- askjdalsd
-- asdfjks
-- ajsdhfkjas
-- aksdjfl
-- adkfjllsdf
-- asdkfjasld
 - asdlkfja
 - asjdfl asdlfkj alksjdf asjdfl
 - iweuro
 - lajkjsdfl
 - aksjdf
 - a fd d f sd f sd s sd d d dw
-- asd
-- we
 - asdas
 - abra ka dabra
 - avada kadavra
-- yes yes yes
 - yup
 - ya
 - hsdjahsdahsdajsd
@@ -1223,3 +1237,149 @@
 
 
 
+<!-- jyotismaan -->
+## intent:problem_period_cramps
+- lower belly pain during period
+- lower belly pain after period
+- lower belly pain before period
+- belly pain in period
+- period cramps
+- cramps during period
+- cramps after period
+- cramps before period
+- menstrual cramps during period
+- menstrual cramps after period
+- menstrual cramps before period
+- abdomen cramps
+- lower abdomen pain during period
+- lower abdomen pain after period
+- lower abdomen pain before period
+- abdomen pain in period
+
+
+## intent:problem_vit_d_deficiency
+- suffering from vitamin D deficeincy
+- vitamin d deficiency
+- low vitamin d
+- low level of vit d
+- vit d low
+- I’m suffering from vitamin D deficiency
+- im suffering from vit d deficiency
+- suffering from ricket
+- ricket
+- I’m suffering from ricket
+- im suffering from ricket
+- my bones are weak
+- bones are weak due to vitamin d deficiency
+- bones are weak due to vit d deficiency
+- bones are weak due to ricket
+
+## intent:problem_anaemia
+- haeamoglobin level is low
+- low level of haeamoglobin
+- low haeamoglobin
+- low hb
+- suffering from anaemia
+- having anaemia
+- anaemia
+- my hemoglobin level is too low
+- I’m suffering from anaemia
+- im suffering from anaemia
+- lower haemoglobin level
+- low haemoglobin count
+
+## intent:problem_weakness
+- im feeling weak
+- weakness
+- dizziness
+- feeling lazy
+- lazy
+- Im having dizziness weakness
+- im having weakness
+- i'm feeling dizziness
+- i am feeling dizzy
+- i am feeling exhausted
+- i am feeling weekness
+
+## intent:problem_eye_problem
+- eye watering
+- my eyes are waretring
+- my eyes are watering
+- right eye watering
+- left eye watering
+- both the eyes watering
+- eyes are getting dry
+- eye drying
+- my eyes are getting dry
+- my eyes are drying
+- right eye drying
+- left eye drying
+- both the eyes drying
+- i am suffering from eye problem due to long screen time 
+
+## intent:problem_ear_pain
+- my ears are paining
+- right ear is paining
+- left ear is paining
+- ears paining a lot
+- ear pain due to long time earphone use
+- ears are paining for earphone use
+- i am suffering from tinnitus
+- my ears are continuously ringing
+- right ear is ringing
+- left ear is ringing
+- ear ringing due to long use of earphone
+- ear pain due to long time headphone use
+- ears are paining for headphone use
+- ear ringing due to long use of headphone
+- ear pain due to long time earbud use
+- ears are paining for earbud use
+- ear ringing due to long use of earbud
+
+## intent: problem_night_blindness
+- i am suffering from night blindness
+- night blindness
+- i am having night blindness
+- i do not see clearly during night
+- i have eyesight problem in the night
+- eyesight problem at night
+- low eyesight at night
+- low eye power at night
+- blindness at night
+- blind in night time
+- night time blindness
+- i do not see clearly in the dark
+- i have eyesight problem in the dark
+- eyesight problem in the dark
+- low eyesight in the dark
+- low eye power in the dark
+- blindness in the dark
+- blind in the dark
+- blindness in dark light
+- difficulty seeing in the dark
+- difficulty seeing in the night
+- difficulty seeing at night
+
+## intent: problem_mild_heart_disease
+- i have heart problems
+- i have experienced heart atack before
+- pressure in the chest
+- tightness in the chest
+- pain in chest
+- heart attack
+- i think i have pain in my left arm
+- i am feeling heart attack
+- squeezing in the chest
+- aching sensation in my chest
+- pressure in the left arms
+- tightness in the left arms
+- squeezing in the arms
+- aching sensation in my arms
+- chest pressure
+- chest tightness
+- chest pain
+- chest squeezing
+- arms pressure
+- arms tightness
+- arms aching
+- arms aching sensation
